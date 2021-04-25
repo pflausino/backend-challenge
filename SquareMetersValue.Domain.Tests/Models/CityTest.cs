@@ -1,5 +1,5 @@
 ﻿using System;
-using SquareMetersValue.Domain.Entities;
+using SquareMetersValue.Domain.Models;
 using Xunit;
 
 namespace SquareMetersValue.Domain.Tests.Entities

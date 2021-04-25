@@ -1,20 +1,27 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+using FluentValidation;
+using FluentValidation.Results;
 
 namespace SquareMetersValue.Domain.Core
 {
     public abstract class Entity : IEquatable<Entity>, IEqualityComparer<Entity>
     {
         public virtual Guid Id { get; set; }
-        //public virtual bool Valid { get; private set; }
-        //public virtual bool Invalid => !Valid;
-        //public virtual ValidationResult ValidationResult { get; private set; }
+        public virtual bool Valid { get; private set; }
+        public virtual bool Invalid => !Valid;
+        public virtual ValidationResult ValidationResult { get; private set; }
 
-        //public virtual bool Validate<T>(T model, AbstractValidator<T> validator)
-        //{
-        //    ValidationResult = validator.Validate(model);
-        //    return Valid = ValidationResult.IsValid;
-        //}
+        public virtual bool Validate<T>(T model, AbstractValidator<T> validator)
+        {
+            if (ValidationResult != null && ValidationResult.Errors.Any())
+                return Valid = false;
+
+            ValidationResult = validator.Validate(model);
+
+            return Valid = ValidationResult.IsValid;
+        }
 
         public virtual bool Equals(Entity other)
         {

@@ -1,19 +1,22 @@
-﻿namespace SquareMetersValue.Domain.Entities
+﻿using System;
+using SquareMetersValue.Domain.Core;
+
+namespace SquareMetersValue.Domain.Models
 {
-    public class Property
+    public class Property : Entity
     {
-        public Property(int size, decimal totalValue, City city, string description)
+        public Property(int size, decimal totalValue, Guid cityId, string description)
         {
             Size = size;
             TotalValue = totalValue;
-            City = city;
+            CityId = cityId;
             Description = description;
             SetAveregePerSquareMeter();
 
         }
         public int Size { get; private set; }
         public decimal TotalValue { get; private set; }
-        public City City { get; private set; }
+        public Guid CityId { get; private set; }
         public string Description { get; private set; }
         public decimal AveregePerSquareMeter { get; private set; }
 

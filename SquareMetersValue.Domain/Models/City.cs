@@ -1,6 +1,6 @@
 ﻿using SquareMetersValue.Domain.Core;
 
-namespace SquareMetersValue.Domain.Entities
+namespace SquareMetersValue.Domain.Models
 {
     public class City : Entity
     {
