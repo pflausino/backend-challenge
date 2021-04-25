@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using SquareMetersValue.Domain.Entities;
+using System.Linq;
+using SquareMetersValue.Domain.Models;
 using Xunit;
 
 namespace SquareMetersValue.Domain.Tests.Entities
@@ -19,10 +20,10 @@ namespace SquareMetersValue.Domain.Tests.Entities
             var city = new City("campinas","sp");
             var properties = new List<Property>
             {
-                new Property(100, (decimal)100000.00, city, "Sobrado 2 Quartos"),
-                new Property(50, (decimal)50000.00, city, "Apartamento" ),
-                new Property(75, (decimal)75000.00, city, "Apartamento 3 Qt" ),
-                new Property(200, (decimal)200000.00, city, "Loja no Centro" ),
+                new Property(100, (decimal)100000.00, city.Id, "Sobrado 2 Quartos"),
+                new Property(50, (decimal)50000.00, city.Id, "Apartamento" ),
+                new Property(75, (decimal)75000.00, city.Id, "Apartamento 3 Qt" ),
+                new Property(200, (decimal)200000.00, city.Id, "Loja no Centro" ),
 
             };
             //Act
@@ -47,10 +48,10 @@ namespace SquareMetersValue.Domain.Tests.Entities
             city2.Id = Guid.NewGuid();
             var properties = new List<Property>
             {
-                new Property(100, (decimal)100000.00, city1, "Sobrado 2 Quartos"),
-                new Property(50, (decimal)50000.00, city2, "Apartamento" ),
-                new Property(75, (decimal)75000.00, city2, "Apartamento 3 Qt" ),
-                new Property(200, (decimal)200000.00, city2, "Loja no Centro" ),
+                new Property(100, (decimal)100000.00, city1.Id, "Sobrado 2 Quartos"),
+                new Property(50, (decimal)50000.00, city2.Id, "Apartamento" ),
+                new Property(75, (decimal)75000.00, city2.Id, "Apartamento 3 Qt" ),
+                new Property(200, (decimal)200000.00, city2.Id, "Loja no Centro" ),
 
             };
             //Act
@@ -62,7 +63,11 @@ namespace SquareMetersValue.Domain.Tests.Entities
                 0,
                 realEstateStatisticData.AveregePerSquareMeter
             );
+            Assert.True(realEstateStatisticData.Invalid);
+            Assert.Single(realEstateStatisticData.ValidationResult.Errors);
 
         }
+
+
     }
 }
