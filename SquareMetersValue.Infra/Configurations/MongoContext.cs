@@ -51,6 +51,7 @@ namespace SquareMetersValue.Infra.Configurations
 
             Database = MongoClient.GetDatabase(Environment.GetEnvironmentVariable("DATABASENAME") ?? _configuration.GetSection("MongoSettings").GetSection("DatabaseName").Value);
 
+
         }
 
         public IMongoCollection<T> GetCollection<T>(string name)

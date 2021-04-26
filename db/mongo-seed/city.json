@@ -1,0 +1,5806 @@
+[{
+  "_id": {
+    "$binary": {
+      "base64": "7az9fL0cTXatFBAM2aNEjw==",
+      "subType": "04"
+    }
+  },
+  "name": "Adamantina",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "SXtMQO9FTWWJ744XVBij8g==",
+      "subType": "04"
+    }
+  },
+  "name": "Adolfo",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "iK26jDYaQDiokZFhw+UQ0A==",
+      "subType": "04"
+    }
+  },
+  "name": "Aguaí",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "6PtTGQVuRpCfciG0qpBo1w==",
+      "subType": "04"
+    }
+  },
+  "name": "Águas da Prata",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "xVhC/6AxQnCy9q8FhJ6Ang==",
+      "subType": "04"
+    }
+  },
+  "name": "Águas de Lindóia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "6Yg0QfgpS6ufRawjGo4H1w==",
+      "subType": "04"
+    }
+  },
+  "name": "Águas de Santa Bárbara",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "hUvSfdcoSPaASfLz9AhrcA==",
+      "subType": "04"
+    }
+  },
+  "name": "Águas de São Pedro",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "mbyymza3RCKD5KSeiun3+Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Agudos",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "pN4hWWYrTB+RaDC21rhDUg==",
+      "subType": "04"
+    }
+  },
+  "name": "Alambari",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "O/udCXftQSS1ixJ8/KESFQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Alfredo Marcondes",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "OEXwQbF3RMiQCflTb1zCNA==",
+      "subType": "04"
+    }
+  },
+  "name": "Altair",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "KiFRv4E4TxCa0X8LTqyZeg==",
+      "subType": "04"
+    }
+  },
+  "name": "Altinópolis",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "nQZDQ9DVTmyNv6rBfIReDQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Alto Alegre",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "MirUmKb9SUiXm6kPrlxsXw==",
+      "subType": "04"
+    }
+  },
+  "name": "Alumínio",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "CHqzi4q9SsSgxph6Nwsy0w==",
+      "subType": "04"
+    }
+  },
+  "name": "Álvares Florence",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Cj9Qidp1Qsyk+Mh4Rui+Xg==",
+      "subType": "04"
+    }
+  },
+  "name": "Álvares Machado",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "mOHzMw0oRrmP9NJPvTOFYg==",
+      "subType": "04"
+    }
+  },
+  "name": "Álvaro de Carvalho",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "SLKmZl+HTzWunaP9zammRw==",
+      "subType": "04"
+    }
+  },
+  "name": "Alvinlândia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "LkYYy1SXSvaLClbGifREKw==",
+      "subType": "04"
+    }
+  },
+  "name": "Americana",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "jvIkDF8tSU+QTWEjs9TGJw==",
+      "subType": "04"
+    }
+  },
+  "name": "Américo Brasiliense",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "sqwv0dZWQtWx3Ut/hsvsNg==",
+      "subType": "04"
+    }
+  },
+  "name": "Américo de Campos",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "3RaV4WZyQ8W5Wv8mILXQRQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Amparo",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Uly31zR8Q/Sja/zrLKXamw==",
+      "subType": "04"
+    }
+  },
+  "name": "Analândia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "tEgwO+yHQC6sqiWtn1dPnA==",
+      "subType": "04"
+    }
+  },
+  "name": "Andradina",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "X1YiT80eRxaFg6qOStQOTw==",
+      "subType": "04"
+    }
+  },
+  "name": "Angatuba",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "juQ1RdEVRMydnBAKHWOhwA==",
+      "subType": "04"
+    }
+  },
+  "name": "Anhembi",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Z+NOkEprQ4qWW+5lqOmWCw==",
+      "subType": "04"
+    }
+  },
+  "name": "Anhumas",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "maTTrYMOTIeg+eDw+2Obkw==",
+      "subType": "04"
+    }
+  },
+  "name": "Aparecida",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "j6fUVr4UR1OnsWvKBfSBSw==",
+      "subType": "04"
+    }
+  },
+  "name": "Aparecida d'Oeste",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "dRbyvqpRRSeIoKHCn5sf9Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Apiaí",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "UwcyWI+RTS+RR0V6jpgr+A==",
+      "subType": "04"
+    }
+  },
+  "name": "Araçariguama",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "SwBIWMRLT6yaJd/ij28GkQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Araçatuba",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "xGC2OWRQRyyiYnV4wAgQyQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Araçoiaba da Serra",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "3z/hGcGWQPyUq6TEbkK6xg==",
+      "subType": "04"
+    }
+  },
+  "name": "Aramina",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "lBo8EsR4SMeEexhNRKIqAA==",
+      "subType": "04"
+    }
+  },
+  "name": "Arandu",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "T1xa8tV3RX2bKhECTq/Lzw==",
+      "subType": "04"
+    }
+  },
+  "name": "Arapeí",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "KocW9w/JRaarDCPwCt3CjQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Araraquara",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Vej98BsrTrGHGKVJ6x1LoQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Araras",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "03YuorWSRASfc55pwul+5w==",
+      "subType": "04"
+    }
+  },
+  "name": "Arco-Íris",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "rbQRxxWlSS6pAqyfWdNMMQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Arealva",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "QgJBrpDXSE6bBASc9Rc0Qg==",
+      "subType": "04"
+    }
+  },
+  "name": "Areias",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "HHoCIgwkRXGQygI8DeKCBA==",
+      "subType": "04"
+    }
+  },
+  "name": "Areiópolis",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "H3RTqY1GSNOU71OV0Payvw==",
+      "subType": "04"
+    }
+  },
+  "name": "Ariranha",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "ZOxL0Az0QuGgM4JMVFdB+Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Artur Nogueira",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "wC2CyGbQToWnHukgW3f1iA==",
+      "subType": "04"
+    }
+  },
+  "name": "Arujá",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "9+BHcJ78T8qADA8w8KQpOA==",
+      "subType": "04"
+    }
+  },
+  "name": "Aspásia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "xjWhvtInRc2iL+8BnjYSXg==",
+      "subType": "04"
+    }
+  },
+  "name": "Assis",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "OrgIpq8ATDiF+fvnbrZqFQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Atibaia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Fk9Pb5d2TYiPBO6PxXrg4g==",
+      "subType": "04"
+    }
+  },
+  "name": "Auriflama",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "dLVEYf2sQfO7QV/v616Ejw==",
+      "subType": "04"
+    }
+  },
+  "name": "Avaí",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "1nX0Xo6UQoGz08RcbiYScQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Avanhandava",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "P9gD8mDITyy45+0WUnU2+Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Avaré",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "5v/hEfYxTre7W7SD6MQuJQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Bady Bassitt",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "C6EBnxpRTASoM3gNtdfAXQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Balbinos",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "lXaBr/X/Q2GX6PNE44iKcg==",
+      "subType": "04"
+    }
+  },
+  "name": "Bálsamo",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "N/TCVqpdTBGouwqBS6Z1FQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Bananal",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "2pC88TRuRAGdxcuj0So5Dg==",
+      "subType": "04"
+    }
+  },
+  "name": "Barão de Antonina",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Ofar2Q35TB6MY3Wh0uxMUA==",
+      "subType": "04"
+    }
+  },
+  "name": "Barbosa",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "02H0LdXgTGWYWNVrNbqaAA==",
+      "subType": "04"
+    }
+  },
+  "name": "Bariri",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "j1qvaZYRRaKFrsyFbarbqQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Barra Bonita",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "qMrMPk4gSu2XAiEQEdxPuQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Barra do Chapéu",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "hMrmENlVSw6BkIMpJKP18w==",
+      "subType": "04"
+    }
+  },
+  "name": "Barra do Turvo",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "K9TZpypnSUeUI5y1f/6eJA==",
+      "subType": "04"
+    }
+  },
+  "name": "Barretos",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "4jfOiXrEREyPHSPiIDD6Dg==",
+      "subType": "04"
+    }
+  },
+  "name": "Barrinha",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "XYwBic6hS/6Eo2a3i2lrjw==",
+      "subType": "04"
+    }
+  },
+  "name": "Barueri",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Y8cxqmZ4SoqHuUT3TLQ/TQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Bastos",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "I6Z9AcyDT+aM6SBypydu9w==",
+      "subType": "04"
+    }
+  },
+  "name": "Batatais",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Bl3Y5H/rQ+WdincddmTvMA==",
+      "subType": "04"
+    }
+  },
+  "name": "Bauru",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "4SVfwvPETvitmxsiq7vGWA==",
+      "subType": "04"
+    }
+  },
+  "name": "Bebedouro",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "uD/BQ3Q9RfyS8S55fJ12kw==",
+      "subType": "04"
+    }
+  },
+  "name": "Bento de Abreu",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "4tldYVLcR+uTvvCsCnMDbw==",
+      "subType": "04"
+    }
+  },
+  "name": "Bernardino de Campos",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "67K1SydiQwWBKmLFiG3MRg==",
+      "subType": "04"
+    }
+  },
+  "name": "Bertioga",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "o66/x+pFT66XD7nhR8gX2A==",
+      "subType": "04"
+    }
+  },
+  "name": "Bilac",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "bDPuI0qzRt+bK37rk5lIVg==",
+      "subType": "04"
+    }
+  },
+  "name": "Birigui",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "DPu6Q0hOSMKsPWivo1x3Ng==",
+      "subType": "04"
+    }
+  },
+  "name": "Biritiba-Mirim",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "HxJq29aJTzqU8i/fU+ja/Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Boa Esperança do Sul",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "CZLCsa7hSOC8YqETwkyjBg==",
+      "subType": "04"
+    }
+  },
+  "name": "Bocaina",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "JK8GCi4cRpulW6hFpEwGlA==",
+      "subType": "04"
+    }
+  },
+  "name": "Bofete",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "L36EhMGPQxiKdNs9vBGiZA==",
+      "subType": "04"
+    }
+  },
+  "name": "Boituva",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "GiGgHJF5S7S8RDLawh57Fg==",
+      "subType": "04"
+    }
+  },
+  "name": "Bom Jesus dos Perdões",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "wDpvUI6xTseNaOyBQhuz5w==",
+      "subType": "04"
+    }
+  },
+  "name": "Bom Sucesso de Itararé",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "ZulilKrqR1+lM5rO8AQwOw==",
+      "subType": "04"
+    }
+  },
+  "name": "Borá",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Hxy/acKMRHq/YYgpuT9g+w==",
+      "subType": "04"
+    }
+  },
+  "name": "Boracéia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Plcw76T2SJ2F7OXigkWFwg==",
+      "subType": "04"
+    }
+  },
+  "name": "Borborema",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "wQrQRzR/RgiF/VbKC8bmyw==",
+      "subType": "04"
+    }
+  },
+  "name": "Borebi",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "onNecsj+QpGsIxDUDkZKdA==",
+      "subType": "04"
+    }
+  },
+  "name": "Botucatu",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Tweo454tS4KY21Qv9MESOA==",
+      "subType": "04"
+    }
+  },
+  "name": "Bragança Paulista",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "//8JVS7WQh6vYc+OH8KqxA==",
+      "subType": "04"
+    }
+  },
+  "name": "Braúna",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "YmaM8hGEROizaQH4YRVloQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Brejo Alegre",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "FNkhj3JAT9ae2fOPBwczJQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Brodowski",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "DguO6kS+RBqCR5EgkYcZuQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Brotas",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "vUHDx1uuRUGLRY/hQ4NV4w==",
+      "subType": "04"
+    }
+  },
+  "name": "Buri",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "zRNQ5LsIQgS0KOwTSehIhw==",
+      "subType": "04"
+    }
+  },
+  "name": "Buritama",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "UEjJ2envSSS2BC9N1RlAgQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Buritizal",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "AwoUZOk/QTaRNWkjLgJCgw==",
+      "subType": "04"
+    }
+  },
+  "name": "Cabrália Paulista",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "ojUs97rZRDq+WcfGRWW2yg==",
+      "subType": "04"
+    }
+  },
+  "name": "Cabreúva",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "QNWQaSPsSl+O7utVQeIdzg==",
+      "subType": "04"
+    }
+  },
+  "name": "Caçapava",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "vJKBagMLQfOOrtB2AOnkqA==",
+      "subType": "04"
+    }
+  },
+  "name": "Cachoeira Paulista",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "DxceK66XTo6BSzxH31klrw==",
+      "subType": "04"
+    }
+  },
+  "name": "Caconde",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "adew/EQeTXOfV5HOUpIV1w==",
+      "subType": "04"
+    }
+  },
+  "name": "Cafelândia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "XdzxdkK3Tc6mFwEJS4+VeA==",
+      "subType": "04"
+    }
+  },
+  "name": "Caiabu",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "xGVyfdraT6CsjlPQH+ks1g==",
+      "subType": "04"
+    }
+  },
+  "name": "Caieiras",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "6+5C46HuSi65D/KYalYqQg==",
+      "subType": "04"
+    }
+  },
+  "name": "Caiuá",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "yTsJMTL4RBajUqa8R1A3/Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Cajamar",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "IyIpUFRES9+VSyM2J+7z7A==",
+      "subType": "04"
+    }
+  },
+  "name": "Cajati",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "gQrhH9dVTKOPe0FwtNSArg==",
+      "subType": "04"
+    }
+  },
+  "name": "Cajobi",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "hXPWB0iwSq+D8AEO1ZSN2Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Cajuru",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Dh2V3CQwQEGk289pn96WsA==",
+      "subType": "04"
+    }
+  },
+  "name": "Campina do Monte Alegre",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "K8eWN9/STICWapbCM7fzvQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Campinas",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "FAbpcTfFTy+ZdMwoxzxHkQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Campo Limpo Paulista",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "kTYAXiCTS2Gv/tvSDvrORA==",
+      "subType": "04"
+    }
+  },
+  "name": "Campos do Jordão",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "AxXzhnRZTK6QklEA61xPvA==",
+      "subType": "04"
+    }
+  },
+  "name": "Campos Novos Paulista",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "+Vvj1tPnSIK2qJGuMVWE4g==",
+      "subType": "04"
+    }
+  },
+  "name": "Cananéia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "4B1dipt8Q9WNOxkAvuBVVA==",
+      "subType": "04"
+    }
+  },
+  "name": "Canas",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Lm+0PT7AS0mJ484E/4bCVA==",
+      "subType": "04"
+    }
+  },
+  "name": "Cândido Mota",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "0TAiDHotQgSP+2qU+bbVPw==",
+      "subType": "04"
+    }
+  },
+  "name": "Cândido Rodrigues",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "XHBtDnIPTgqTI4U/BTMuPw==",
+      "subType": "04"
+    }
+  },
+  "name": "Canitar",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "vrLFuMnuRQuZN6XkE2Vj+Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Capão Bonito",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "gV84m/cBRJGpc4PsNh56PA==",
+      "subType": "04"
+    }
+  },
+  "name": "Capela do Alto",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "43NVxiULT9i/a4nn5AoSbg==",
+      "subType": "04"
+    }
+  },
+  "name": "Capivari",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "vR92jifmSr2GR04AmZ25qw==",
+      "subType": "04"
+    }
+  },
+  "name": "Caraguatatuba",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "aZ/CkIuGSVyCMIHIQn94WA==",
+      "subType": "04"
+    }
+  },
+  "name": "Carapicuíba",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "GHCJkBN3RLuf9BwgIHl/og==",
+      "subType": "04"
+    }
+  },
+  "name": "Cardoso",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "X5DTidttRHGCE08Pn3pP7Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Casa Branca",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "2uzY8HIDQea8vme4i5reOg==",
+      "subType": "04"
+    }
+  },
+  "name": "Cássia dos Coqueiros",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "jiES6XGtTyip+rPKdX6SDg==",
+      "subType": "04"
+    }
+  },
+  "name": "Castilho",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "jeep9teISyqP9vriKgW12Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Catanduva",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "cEHCJgbGRDi7VVE/iML78g==",
+      "subType": "04"
+    }
+  },
+  "name": "Catiguá",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "vgO6+eluR2WZ33eUxQP1kg==",
+      "subType": "04"
+    }
+  },
+  "name": "Cedral",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "P8PnimPMR/GW2E97fIAFZQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Cerqueira César",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "ZtdrnPehSC+bOCOWcxn7Ew==",
+      "subType": "04"
+    }
+  },
+  "name": "Cerquilho",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "sDfrMhZEQqaPgliIUBft/Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Cesário Lange",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "eYfs5K3gTRWTSFeN75lCmg==",
+      "subType": "04"
+    }
+  },
+  "name": "Charqueada",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "ltYziTKjRLe09AaVkcF8aw==",
+      "subType": "04"
+    }
+  },
+  "name": "Chavantes",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "g4sWObnjQSSC9jqnlxToog==",
+      "subType": "04"
+    }
+  },
+  "name": "Clementina",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "fUhFjyXHRzaMZrfusr6pAA==",
+      "subType": "04"
+    }
+  },
+  "name": "Colina",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "RGztU22DR5uLVtJ+YKLiOQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Colômbia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "0wxmjiDdQVqjNb+IWexzPA==",
+      "subType": "04"
+    }
+  },
+  "name": "Conchal",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "RQIrPrffQHaDgKiRA8RRiQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Conchas",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "KyhuB4zYST+gfhhZjdmJTA==",
+      "subType": "04"
+    }
+  },
+  "name": "Cordeirópolis",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "7pFoDFmOTE6b5vySeK6K1g==",
+      "subType": "04"
+    }
+  },
+  "name": "Coroados",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "uri0NWyKS2GoUGJ4owHuJw==",
+      "subType": "04"
+    }
+  },
+  "name": "Coronel Macedo",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "UTYAL6wRQWSgQVyQ7VSxFw==",
+      "subType": "04"
+    }
+  },
+  "name": "Corumbataí",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "bDOEwU5VRpacOmQtS8UMFA==",
+      "subType": "04"
+    }
+  },
+  "name": "Cosmópolis",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "YZrO7ci/RvqzS7JSdJ3Jmg==",
+      "subType": "04"
+    }
+  },
+  "name": "Cosmorama",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "m2wiwDURTCih4kuOApFNQg==",
+      "subType": "04"
+    }
+  },
+  "name": "Cotia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "sdvoGKgXRQiqpj48L0MxKQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Cravinhos",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "KFra61LxSxmhHFD6ILhpEw==",
+      "subType": "04"
+    }
+  },
+  "name": "Cristais Paulista",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "8SsHwvUBRIqFe8iWI7QKAg==",
+      "subType": "04"
+    }
+  },
+  "name": "Cruzália",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Pz15FqzlR6WiDDiuPF5F+w==",
+      "subType": "04"
+    }
+  },
+  "name": "Cruzeiro",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "ANTu/qodRqaQ1DqTDKuYoQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Cubatão",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "8dYPQMxQRqeIC0Jdq+gyPg==",
+      "subType": "04"
+    }
+  },
+  "name": "Cunha",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "ja+rMuLwQ8iswlJgf8qERA==",
+      "subType": "04"
+    }
+  },
+  "name": "Descalvado",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "V0AKfEzJQSqxftlKYqMAkw==",
+      "subType": "04"
+    }
+  },
+  "name": "Diadema",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "uOgicfaqTQihzPyf8IEOfQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Dirce Reis",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "IExb8emITUO+4eouJxQbpw==",
+      "subType": "04"
+    }
+  },
+  "name": "Divinolândia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "043vXxeZQhmJkOfF7vuHGg==",
+      "subType": "04"
+    }
+  },
+  "name": "Dobrada",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "0Oh4B2rlTOuU5vNJ3wcg+w==",
+      "subType": "04"
+    }
+  },
+  "name": "Dois Córregos",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "qdMJsMROTuOJMk+as9SsKQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Dolcinópolis",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "gLRUxEHqRVK3Cq9oNWhFdA==",
+      "subType": "04"
+    }
+  },
+  "name": "Dourado",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "A6TEF3ZOSQmZNxD3n3xAeg==",
+      "subType": "04"
+    }
+  },
+  "name": "Dracena",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Q3lP582JQsqiz0eFYysMrA==",
+      "subType": "04"
+    }
+  },
+  "name": "Duartina",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "77L2OMHyTOmyCuTxDCSXcw==",
+      "subType": "04"
+    }
+  },
+  "name": "Dumont",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Lj8OaaVmRPSCHpiT9cazrg==",
+      "subType": "04"
+    }
+  },
+  "name": "Echaporã",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Aote7p2qStiW+VkRAtKTMg==",
+      "subType": "04"
+    }
+  },
+  "name": "Eldorado",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "FSwWrZXoR9eiKFAOkM1Ygw==",
+      "subType": "04"
+    }
+  },
+  "name": "Elias Fausto",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "c7Iliu74QK2HZLqOc5E8DA==",
+      "subType": "04"
+    }
+  },
+  "name": "Elisiário",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "WWDZpJybSHG0g7T80OxU5A==",
+      "subType": "04"
+    }
+  },
+  "name": "Embaúba",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "SjpMpgWZRTulLIih1ouSOQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Embu",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "vXHkpqAHSB+0DDdNucDImQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Embu-Guaçu",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "cFiA6iFER+Gc3hvRuz3rlQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Emilianópolis",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "GuHQtZ9oQHuyuEzye5lSfw==",
+      "subType": "04"
+    }
+  },
+  "name": "Engenheiro Coelho",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "3iUXEWGHSd2s4CqlKTTtEA==",
+      "subType": "04"
+    }
+  },
+  "name": "Espírito Santo do Pinhal",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "cKNiCQLNRh2vhJc7x7varQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Espírito Santo do Turvo",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "1+m+RUPkTeiEJ2yZVvKucA==",
+      "subType": "04"
+    }
+  },
+  "name": "Estiva Gerbi",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "J2CIb3VpT76zBOc2eiLo7Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Estrela d'Oeste",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "yZpobD8GSdigafkBjggAJw==",
+      "subType": "04"
+    }
+  },
+  "name": "Estrela do Norte",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Ark9A4t9Q0W1su5ouvhm3g==",
+      "subType": "04"
+    }
+  },
+  "name": "Euclides da Cunha Paulista",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "R6Dx/r9bRzOS0aDk/AILrA==",
+      "subType": "04"
+    }
+  },
+  "name": "Fartura",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "9ZI3d5AQSbe2pTWI+yXFuw==",
+      "subType": "04"
+    }
+  },
+  "name": "Fernando Prestes",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "rwFEy+ajRn6nIuLDZwZB2A==",
+      "subType": "04"
+    }
+  },
+  "name": "Fernandópolis",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "GRzywLEwRm+/d6sSm88Pzw==",
+      "subType": "04"
+    }
+  },
+  "name": "Fernão",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "bsxayW8vRWCnNqzqhHG+Gw==",
+      "subType": "04"
+    }
+  },
+  "name": "Ferraz de Vasconcelos",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "4aqnsd5IS2iYB2Q0WTznCw==",
+      "subType": "04"
+    }
+  },
+  "name": "Flora Rica",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "KHcUITuTTimCKEN/2Fh4Mw==",
+      "subType": "04"
+    }
+  },
+  "name": "Floreal",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "p2cfarHKRoCmuN0NI4CLCQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Florínia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "L8tds7/gTvibBLdFAWCbkg==",
+      "subType": "04"
+    }
+  },
+  "name": "Flórida Paulista",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "O/lbnFEOQNSDk7PqGpDKog==",
+      "subType": "04"
+    }
+  },
+  "name": "Franca",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "qq3W6QTUSvOc6hs8amVblg==",
+      "subType": "04"
+    }
+  },
+  "name": "Francisco Morato",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "eDHlXnStRjC7UwosunaLaw==",
+      "subType": "04"
+    }
+  },
+  "name": "Franco da Rocha",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "iznz8dI8S0+mdnOkggP+rw==",
+      "subType": "04"
+    }
+  },
+  "name": "Gabriel Monteiro",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "dg5asNnlQ++FTRXTvbNPgg==",
+      "subType": "04"
+    }
+  },
+  "name": "Gália",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "WWbct+F1RFKfe8FWdhNaWA==",
+      "subType": "04"
+    }
+  },
+  "name": "Garça",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "S0oqneO0Svu18a3LYWivXg==",
+      "subType": "04"
+    }
+  },
+  "name": "Gastão Vidigal",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "plJFnC+rRGipxHrRWAijng==",
+      "subType": "04"
+    }
+  },
+  "name": "Gavião Peixoto",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "w0yrBSyoQzeHqmol2sTv2w==",
+      "subType": "04"
+    }
+  },
+  "name": "General Salgado",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "XjmUAhwTSGCc+FdDjjEq/Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Getulina",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "5C5VeqdvRKepJcmTyqN+wA==",
+      "subType": "04"
+    }
+  },
+  "name": "Glicério",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "pDKy0fKYQ6um7lA3WzaKrw==",
+      "subType": "04"
+    }
+  },
+  "name": "Guaiçara",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "wD31HDDtRVal31fQBuW7bg==",
+      "subType": "04"
+    }
+  },
+  "name": "Guaimbê",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "bMV28BdAQPe44jSLUlHiFw==",
+      "subType": "04"
+    }
+  },
+  "name": "Guaíra",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "xVCl1dYhS8yrGXTyTgEA+Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Guapiaçu",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "lRROuVp3RiqeKxAdRDjC4g==",
+      "subType": "04"
+    }
+  },
+  "name": "Guapiara",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "JDCPx1BkSRWv4IackYtpvQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Guará",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "tN557YKKRCaeFy/hHsmBdg==",
+      "subType": "04"
+    }
+  },
+  "name": "Guaraçaí",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "iede3lmASF21YeZnav76zA==",
+      "subType": "04"
+    }
+  },
+  "name": "Guaraci",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "J8hQDkoQQeaIltGILt/ARw==",
+      "subType": "04"
+    }
+  },
+  "name": "Guarani d'Oeste",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "jWN+Jbk+RZuplayukcue4g==",
+      "subType": "04"
+    }
+  },
+  "name": "Guarantã",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "nXp3E/oeRmC8125oXyl3RA==",
+      "subType": "04"
+    }
+  },
+  "name": "Guararapes",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "URcsQ7dTQTav+DGd5pmnMg==",
+      "subType": "04"
+    }
+  },
+  "name": "Guararema",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "H5Hno4ZWQQeX1sSE1Ha1iw==",
+      "subType": "04"
+    }
+  },
+  "name": "Guaratinguetá",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "ysmEu9DJRiG8ZXLO/b40ag==",
+      "subType": "04"
+    }
+  },
+  "name": "Guareí",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "5VQ+AmX9QWK5hKP1oPW0EQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Guariba",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "zBLyO/3BRV6Xz3SVt6dPpA==",
+      "subType": "04"
+    }
+  },
+  "name": "Guarujá",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "gCAf55XmRF2OrUjnEtCTaQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Guarulhos",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "ycmLfIUDT9KQAiNMWStV7Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Guatapará",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "dD3gGiqTSG6r6u8lHr7qfA==",
+      "subType": "04"
+    }
+  },
+  "name": "Guzolândia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "MwqVGjeZQ2iBdbB8VU6CLw==",
+      "subType": "04"
+    }
+  },
+  "name": "Herculândia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "jgTxKbuXRgWckrvLYgnFtQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Holambra",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "jbJGzkBWRbWLgOls0zHDAA==",
+      "subType": "04"
+    }
+  },
+  "name": "Hortolândia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "3PwIYheGTSCZiAGOg9laJQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Iacanga",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Ykgu5yOTRMeqNKfqDeTNLw==",
+      "subType": "04"
+    }
+  },
+  "name": "Iacri",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "6hJ0xw9fS4uLQFSDetDYlA==",
+      "subType": "04"
+    }
+  },
+  "name": "Iaras",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "7uaqqszPSrmdakhimi+P0Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Ibaté",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "gClKIoolSbOZuiV0XNYSxQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Ibirá",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "QppbFex7RcK/thHlM5D3yg==",
+      "subType": "04"
+    }
+  },
+  "name": "Ibirarema",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "7+SYA/A2TkSWGhM8MDiWMA==",
+      "subType": "04"
+    }
+  },
+  "name": "Ibitinga",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Oyxc2rFURy2wwk/B0qybHw==",
+      "subType": "04"
+    }
+  },
+  "name": "Ibiúna",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "WHGxSA4pSAae974kcjevIQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Icém",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "1LdN/zLbT8qmkm3cLhHxFg==",
+      "subType": "04"
+    }
+  },
+  "name": "Iepê",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "rpSES9WSRmG4ELi6BOBANw==",
+      "subType": "04"
+    }
+  },
+  "name": "Igaraçu do Tietê",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "S03YJQyWSqS0461HlZJT9g==",
+      "subType": "04"
+    }
+  },
+  "name": "Igarapava",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "b1wJ78HBQaCyPPMniFUp/A==",
+      "subType": "04"
+    }
+  },
+  "name": "Igaratá",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "anaJnjXuQ3iyKs7/spQQ9g==",
+      "subType": "04"
+    }
+  },
+  "name": "Iguape",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "T5OZ1eSqTLaXpgnugw6onA==",
+      "subType": "04"
+    }
+  },
+  "name": "Ilha Comprida",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "SFh7rZt2TQ+36s+omAKAPg==",
+      "subType": "04"
+    }
+  },
+  "name": "Ilha Solteira",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "7UX0NEGFRsSp8owtS7oYqQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Ilhabela",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "pCWE9sEVRKu2MzrGJfCdZw==",
+      "subType": "04"
+    }
+  },
+  "name": "Indaiatuba",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "dj3bcrjrQV2atoZ28kLsqg==",
+      "subType": "04"
+    }
+  },
+  "name": "Indiana",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "qCiF3A+LQOSIgCk1Fz0kfQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Indiaporã",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "ltT+kr6gQ5yyibuV/IPDzA==",
+      "subType": "04"
+    }
+  },
+  "name": "Inúbia Paulista",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "tZ5PuY1YROW9GUutU0h+yQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Ipauçu",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "6zybXOjNTwqNd2Cd0R0NoQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Iperó",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Y7hJrUuzSXGp3QdGY80RkA==",
+      "subType": "04"
+    }
+  },
+  "name": "Ipeúna",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "zdR8fYBgTliRVs8G7YNw3Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Ipiguá",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "EjDMqvTITCmu9lVwoQ4tZg==",
+      "subType": "04"
+    }
+  },
+  "name": "Iporanga",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "DeiNGVAKRweXnmc8cPTefA==",
+      "subType": "04"
+    }
+  },
+  "name": "Ipuã",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "8TVc9dG0RQWS2EM5Nu7k1g==",
+      "subType": "04"
+    }
+  },
+  "name": "Iracemápolis",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "U8CDdvQlRDiyCi1KH1tZOA==",
+      "subType": "04"
+    }
+  },
+  "name": "Irapuã",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "98dxBcNcQSe+MMnpfcr+rw==",
+      "subType": "04"
+    }
+  },
+  "name": "Irapuru",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "jFMFkMbvRPe3H+VyXwrRVg==",
+      "subType": "04"
+    }
+  },
+  "name": "Itaberá",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "+Gxr+lGdSueGmwtRgL3LRA==",
+      "subType": "04"
+    }
+  },
+  "name": "Itaí",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "/2jh5A8QQnSCAPo50jFSrg==",
+      "subType": "04"
+    }
+  },
+  "name": "Itajobi",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "2m6mJOPRQ3SI8LXUQuLb1w==",
+      "subType": "04"
+    }
+  },
+  "name": "Itaju",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "kyNtG8sTSfe4a/41dJ3i2A==",
+      "subType": "04"
+    }
+  },
+  "name": "Itanhaém",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "FmqaMZoRRm6vvkNGbjmN5A==",
+      "subType": "04"
+    }
+  },
+  "name": "Itaóca",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "JtqiY44WS3SRqyXIx721eg==",
+      "subType": "04"
+    }
+  },
+  "name": "Itapecerica da Serra",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "gPWrUvbdSd2Ce8J7nZ3sTw==",
+      "subType": "04"
+    }
+  },
+  "name": "Itapetininga",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "kFlz33dASnOzb6xqryGovQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Itapeva",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "yO272D4OToqf2BBgPdtp2w==",
+      "subType": "04"
+    }
+  },
+  "name": "Itapevi",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "0ON5SdvVQaKsQnPoypQABQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Itapira",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "lTojyupBS/mrrnpJTP+GwQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Itapirapuã Paulista",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "QSJvU/dhTQeagn8wu/Dqbw==",
+      "subType": "04"
+    }
+  },
+  "name": "Itápolis",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "gnx3Tp2CSSyZwTBgQBjfCw==",
+      "subType": "04"
+    }
+  },
+  "name": "Itaporanga",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "lSMUUWC4QVyzDXAJC0zXmw==",
+      "subType": "04"
+    }
+  },
+  "name": "Itapuí",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "G6m3RmTJQTGjpqNte4RtQw==",
+      "subType": "04"
+    }
+  },
+  "name": "Itapura",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Cqoun3kkRXWTauzY+Mk9ug==",
+      "subType": "04"
+    }
+  },
+  "name": "Itaquaquecetuba",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "MLNq8OBwT6iCKY1lOdw74Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Itararé",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "iHrjyFxWTVOIoRBxsysI3A==",
+      "subType": "04"
+    }
+  },
+  "name": "Itariri",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "68LduibqQ4KCOudU/p6fHw==",
+      "subType": "04"
+    }
+  },
+  "name": "Itatiba",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "6/dfHTWATGqiN+zV9+Xrzg==",
+      "subType": "04"
+    }
+  },
+  "name": "Itatinga",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "xgkFERTdR5GnuFWtTUh10A==",
+      "subType": "04"
+    }
+  },
+  "name": "Itirapina",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "fm2x2hbuTXCAR8gVoJK2Tg==",
+      "subType": "04"
+    }
+  },
+  "name": "Itirapuã",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "/yiFvu5pT0S2b1hlfPsM6w==",
+      "subType": "04"
+    }
+  },
+  "name": "Itobi",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "ppD6aP0fTwiOKXCnHATk6A==",
+      "subType": "04"
+    }
+  },
+  "name": "Itu",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "ASmyUQ5VQUC4YqXoZwry1g==",
+      "subType": "04"
+    }
+  },
+  "name": "Itupeva",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "0VcBlQhnSbS36N/coaz15g==",
+      "subType": "04"
+    }
+  },
+  "name": "Ituverava",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "ALxX+wcrTbCkKlpGoJDNZw==",
+      "subType": "04"
+    }
+  },
+  "name": "Jaborandi",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Or1/VfKJSWyM2t+xPYNP/w==",
+      "subType": "04"
+    }
+  },
+  "name": "Jaboticabal",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "daztjG2mSxeMip3U8oUSrA==",
+      "subType": "04"
+    }
+  },
+  "name": "Jacareí",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "u2+5gdJZTliPGSKV24Uelw==",
+      "subType": "04"
+    }
+  },
+  "name": "Jaci",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "hAtxrgvvTc2FzcVqtltISA==",
+      "subType": "04"
+    }
+  },
+  "name": "Jacupiranga",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "HMFozLwrSIGMmtDAlXpaag==",
+      "subType": "04"
+    }
+  },
+  "name": "Jaguariúna",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "MMTJuDMZQfC1SvcMDNziBw==",
+      "subType": "04"
+    }
+  },
+  "name": "Jales",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "WWTtiVCBTgu08d9yQpSHQQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Jambeiro",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "fe3PrNGqTfu1gLUMkkfVhw==",
+      "subType": "04"
+    }
+  },
+  "name": "Jandira",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "L0xno/oGTGSwEs92V2GLvw==",
+      "subType": "04"
+    }
+  },
+  "name": "Jardinópolis",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "a8XzRBD0SmmO6U1oZ9Xh+Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Jarinu",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "PSB5gYNzSH2WBhLyiwEkKA==",
+      "subType": "04"
+    }
+  },
+  "name": "Jaú",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "7D1otctKRyuvpPrIl6dlVQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Jeriquara",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "HlizBELKR8Ku1hA/XyqNNQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Joanópolis",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "0RvG1yzOT6GEox0V9aY6xA==",
+      "subType": "04"
+    }
+  },
+  "name": "João Ramalho",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "JSeX8YWbRDGR20j5crqs7A==",
+      "subType": "04"
+    }
+  },
+  "name": "José Bonifácio",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "EyFOaycISUirIFTzyW5+OA==",
+      "subType": "04"
+    }
+  },
+  "name": "Júlio Mesquita",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "wqjAteXNTZOcGZw4xi9cZw==",
+      "subType": "04"
+    }
+  },
+  "name": "Jumirim",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "AK2+dyYHT+uTiP4MVIuTRA==",
+      "subType": "04"
+    }
+  },
+  "name": "Jundiaí",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "bWTmVMqxSKWqcVQRlZZ3ag==",
+      "subType": "04"
+    }
+  },
+  "name": "Junqueirópolis",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "/KELzYcYS4OiD8OEmNZE3w==",
+      "subType": "04"
+    }
+  },
+  "name": "Juquiá",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "F+xUdft4SWCUuRedLtwtGg==",
+      "subType": "04"
+    }
+  },
+  "name": "Juquitiba",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "WssmOdLfRR6ZSjJ86qF2MA==",
+      "subType": "04"
+    }
+  },
+  "name": "Lagoinha",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "fJk1QDHlRRyw1XTn4yLYhw==",
+      "subType": "04"
+    }
+  },
+  "name": "Laranjal Paulista",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "5I70ft1rTS27Rti4KFPjMw==",
+      "subType": "04"
+    }
+  },
+  "name": "Lavínia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "jJVem1qeSwSeHZsMwFhmbQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Lavrinhas",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "SpJCn05TR6mefXzsYaY2MA==",
+      "subType": "04"
+    }
+  },
+  "name": "Leme",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "GACi7vZRSdOSnNnIE8bwWw==",
+      "subType": "04"
+    }
+  },
+  "name": "Lençóis Paulista",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "aJhhxckhRZyBKX3g3UnjBQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Limeira",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "CR+VpkYiQF27GSVsPkgBkQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Lindóia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "0QHFnOoKQcK3ykYs6gyrtA==",
+      "subType": "04"
+    }
+  },
+  "name": "Lins",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "tzeNjN8jTxS7nmhNPbpe5Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Lorena",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "RpnrQz1bTkyptOduZnvtoA==",
+      "subType": "04"
+    }
+  },
+  "name": "Lourdes",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "B86bnweATOeKzZh07jUOWA==",
+      "subType": "04"
+    }
+  },
+  "name": "Louveira",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "+g+1MUJMT+y09dwnBgbmAQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Lucélia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "UODECvCxSdejonjioW4wsw==",
+      "subType": "04"
+    }
+  },
+  "name": "Lucianópolis",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "YroD+uYbSn22Wf844ZPZxA==",
+      "subType": "04"
+    }
+  },
+  "name": "Luís Antônio",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "a2aABptHSJWVhfXX5XVfCQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Luiziânia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "lPHm6QG2TpihVc+zOJgAyw==",
+      "subType": "04"
+    }
+  },
+  "name": "Lupércio",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "P17DKz0KS/OStnnb2/ZQxA==",
+      "subType": "04"
+    }
+  },
+  "name": "Lutécia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "TUhr3RhpTJiMMnkI6g/sgg==",
+      "subType": "04"
+    }
+  },
+  "name": "Macatuba",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "wEUUhSJ1RzCjVgwV7XUZMQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Macaubal",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "oWGiXapcQeaQE9MrOJD2WA==",
+      "subType": "04"
+    }
+  },
+  "name": "Macedônia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Bh7ZNIUcRS+fG0A1FUMvqg==",
+      "subType": "04"
+    }
+  },
+  "name": "Magda",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "mu0SmkIDRiqFf/N+CIuzTQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Mairinque",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "bnN+9slESg6qHfLDQ+0Ybw==",
+      "subType": "04"
+    }
+  },
+  "name": "Mairiporã",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Jz4877qsRX+GcGiE+Lyjdw==",
+      "subType": "04"
+    }
+  },
+  "name": "Manduri",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "OXY2dvNMTte8XpUXg2W42g==",
+      "subType": "04"
+    }
+  },
+  "name": "Marabá Paulista",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "OitoInEXRyePLrcEpLqCSQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Maracaí",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "kY8SIZvAQTGjghLB9mpbjA==",
+      "subType": "04"
+    }
+  },
+  "name": "Marapoama",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "qaVxPV7PRvacFsHtRPIFjw==",
+      "subType": "04"
+    }
+  },
+  "name": "Mariápolis",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "ZjFoMVkWS2mBo8YKFXoCbw==",
+      "subType": "04"
+    }
+  },
+  "name": "Marília",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Y545MR1TQdG6Dgh5isTX1w==",
+      "subType": "04"
+    }
+  },
+  "name": "Marinópolis",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "7665HlxLSDG+0CNmppG9mw==",
+      "subType": "04"
+    }
+  },
+  "name": "Martinópolis",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "KKRJ5A0sSd+5Lj2aYMMGbQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Matão",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "QzqU6Au+RwOIoUDVkDWuXQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Mauá",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "+r0t9bTGRVOHvPnfjwuBew==",
+      "subType": "04"
+    }
+  },
+  "name": "Mendonça",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Guqg8zMgRtOMgPtym8NDYw==",
+      "subType": "04"
+    }
+  },
+  "name": "Meridiano",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "tXCjKMlDR625xAWZPmK0Xw==",
+      "subType": "04"
+    }
+  },
+  "name": "Mesópolis",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "GvWkqcouRDO5/vlBZVdd9A==",
+      "subType": "04"
+    }
+  },
+  "name": "Miguelópolis",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "gdipKcwrRx2KWCwEyhkpNw==",
+      "subType": "04"
+    }
+  },
+  "name": "Mineiros do Tietê",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "CS5P2p7oRlKbqTFUMcIdgg==",
+      "subType": "04"
+    }
+  },
+  "name": "Mira Estrela",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "zJR2GpL2QHK7rIkrd5Rb4w==",
+      "subType": "04"
+    }
+  },
+  "name": "Miracatu",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "zBL5OGojRZm4WXVdORadew==",
+      "subType": "04"
+    }
+  },
+  "name": "Mirandópolis",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "aDgygKIfQJ2q1FqZAjAmNg==",
+      "subType": "04"
+    }
+  },
+  "name": "Mirante do Paranapanema",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "sABljLPKQr2yOzEJ1UP8yg==",
+      "subType": "04"
+    }
+  },
+  "name": "Mirassol",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "0oPv2TqGTtGx7VvmMnVzig==",
+      "subType": "04"
+    }
+  },
+  "name": "Mirassolândia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "quofdBdjTBWO5GgZ75aSJQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Mococa",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Mh35m6WqTQShZmSTilWcnQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Mogi das Cruzes",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "tHgaJKv1T6Wex93WGUivQA==",
+      "subType": "04"
+    }
+  },
+  "name": "Mogi-Guaçu",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "/eY0W92qRe2+KE9hlQ5ecQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Mogi-Mirim",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "/GdE5B5qSTWC3t7nmvdQAw==",
+      "subType": "04"
+    }
+  },
+  "name": "Mombuca",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "F9N+lMIER7+FWvpxwct1mA==",
+      "subType": "04"
+    }
+  },
+  "name": "Monções",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "igT/Vw1jTQaN6gmyb24z/g==",
+      "subType": "04"
+    }
+  },
+  "name": "Mongaguá",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "+P9e0AZXSyGeBu6/bezwRg==",
+      "subType": "04"
+    }
+  },
+  "name": "Monte Alegre do Sul",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "rqhM7KkzTxuf5KUgqryHfw==",
+      "subType": "04"
+    }
+  },
+  "name": "Monte Alto",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Ib3ru8dCSCmkmJnKND8ADA==",
+      "subType": "04"
+    }
+  },
+  "name": "Monte Aprazível",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Tg0RSJzCQ9qUkUIdGtWsbw==",
+      "subType": "04"
+    }
+  },
+  "name": "Monte Azul Paulista",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Hccaf2fkROW1xPsAJC9/5Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Monte Castelo",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "8/ZAkdaySumrg6ET6wzWmw==",
+      "subType": "04"
+    }
+  },
+  "name": "Monte Mor",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "8+53DDZbSG+1VOojNStlLA==",
+      "subType": "04"
+    }
+  },
+  "name": "Monteiro Lobato",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "dfJyICGXQCChZF/VXWPaTQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Morro Agudo",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "mTjJUwN6QsKv14hB0/hkQQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Morungaba",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "h9S9Wnv6QYSx921IZqVWbA==",
+      "subType": "04"
+    }
+  },
+  "name": "Motuca",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "BNk4dp8ITbSBrgxDVr+H4w==",
+      "subType": "04"
+    }
+  },
+  "name": "Murutinga do Sul",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "4I9CInhCQkyoghuEPWjq0Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Nantes",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "7l3Bz9KzSFSIYIL1DCCK7A==",
+      "subType": "04"
+    }
+  },
+  "name": "Narandiba",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Zlwc/tg9QtSXRuWeubC4/A==",
+      "subType": "04"
+    }
+  },
+  "name": "Natividade da Serra",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "5+HkbW+vQoqBpAgNVUBI6w==",
+      "subType": "04"
+    }
+  },
+  "name": "Nazaré Paulista",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "GohVc/xxTt+LTxSVt221xQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Neves Paulista",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Ca1OW0YLQJmK7wn4SnjgAw==",
+      "subType": "04"
+    }
+  },
+  "name": "Nhandeara",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "hAN51Wq1SryAlOEeDfqdDQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Nipoã",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "qW30g3ZHQGGSPbS4NAEdTA==",
+      "subType": "04"
+    }
+  },
+  "name": "Nova Aliança",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "uE7VOsS1R+eIzl6xAG4/rw==",
+      "subType": "04"
+    }
+  },
+  "name": "Nova Campina",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "+KXlS7oLToSgCIJPX4l4pg==",
+      "subType": "04"
+    }
+  },
+  "name": "Nova Canaã Paulista",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "1SGqI0EPSxKJcR9bjx1f0g==",
+      "subType": "04"
+    }
+  },
+  "name": "Nova Castilho",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "EYFO7i2DRu+Ui9h1XEkuwA==",
+      "subType": "04"
+    }
+  },
+  "name": "Nova Europa",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "HrcIac9/Tyq/B1CWKkV7MQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Nova Granada",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "SEBdA9+UQwGNxb4+DpwrfA==",
+      "subType": "04"
+    }
+  },
+  "name": "Nova Guataporanga",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "d33AeY6ATJGGiszVO81HXA==",
+      "subType": "04"
+    }
+  },
+  "name": "Nova Independência",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "sCr0GQOMSmWgB4DdaMTeJQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Nova Luzitânia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "rN9gojapSQmHpTssLVDpOQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Nova Odessa",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "ALnkBEFmSY+w3fpT/fQY+w==",
+      "subType": "04"
+    }
+  },
+  "name": "Novais",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "XyBDGWbVRFirEAM8oTeL9g==",
+      "subType": "04"
+    }
+  },
+  "name": "Novo Horizonte",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "ru1Cn/C+QO6qe/v9l3OX6g==",
+      "subType": "04"
+    }
+  },
+  "name": "Nuporanga",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "XAPptsTRTbqvT+18EhS0iA==",
+      "subType": "04"
+    }
+  },
+  "name": "Ocauçu",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "eeGDNu4JQaq/7hlJmwML7g==",
+      "subType": "04"
+    }
+  },
+  "name": "Óleo",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "IcPPV6fxREKBYlmdapLCCA==",
+      "subType": "04"
+    }
+  },
+  "name": "Olímpia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "D219r6pkSBmfcrsS0C1s1A==",
+      "subType": "04"
+    }
+  },
+  "name": "Onda Verde",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "hf8KCgl0TBS+RRuO9Y5xfg==",
+      "subType": "04"
+    }
+  },
+  "name": "Oriente",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "TbUn6EkmS2uNo1FhbnGpAg==",
+      "subType": "04"
+    }
+  },
+  "name": "Orindiúva",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "6Gdw3BqkSfqNL3a7glqgTA==",
+      "subType": "04"
+    }
+  },
+  "name": "Orlândia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "RctU44XDTYmFPHxRtSeWig==",
+      "subType": "04"
+    }
+  },
+  "name": "Osasco",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "XWydCERrSy2ZECB5oXJkgA==",
+      "subType": "04"
+    }
+  },
+  "name": "Oscar Bressane",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "1sggxiAJSyS5wTJCtvb56w==",
+      "subType": "04"
+    }
+  },
+  "name": "Osvaldo Cruz",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "rFiy7HPmTxesT3ErFn/KrQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Ourinhos",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "5mLcxAJ/SFadg2IAd0Dxdg==",
+      "subType": "04"
+    }
+  },
+  "name": "Ouro Verde",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "D3KnITX/SXuwtKQ9VFMGuQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Ouroeste",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "2Y6ybQ3kTkS/HbI0kX4o3w==",
+      "subType": "04"
+    }
+  },
+  "name": "Pacaembu",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "ll+HyCIHThOWZ7m8Du11cw==",
+      "subType": "04"
+    }
+  },
+  "name": "Palestina",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "G+orbPu1Qo2i2FHKwXahOw==",
+      "subType": "04"
+    }
+  },
+  "name": "Palmares Paulista",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "+R1t+LNeR9+rJ/N/ybxBKw==",
+      "subType": "04"
+    }
+  },
+  "name": "Palmeira d'Oeste",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "+8sOrhHrRY2WNXHNK0ZiEQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Palmital",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "XhoL3XYaQreSby60T2FcRA==",
+      "subType": "04"
+    }
+  },
+  "name": "Panorama",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "p6uhNFiTTXKyk6D1mocmBw==",
+      "subType": "04"
+    }
+  },
+  "name": "Paraguaçu Paulista",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "lLcO0mqGRnG3r4ZtgBOvUQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Paraibuna",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "h40OvegSTzi5C2TgOhNWpQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Paraíso",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "XVQ89lo+R9Ss2CnS97klwg==",
+      "subType": "04"
+    }
+  },
+  "name": "Paranapanema",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "sZjn6PO9RXiE42/oR783qQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Paranapuã",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "/uCgbSRKQkevsmKbUXKpKg==",
+      "subType": "04"
+    }
+  },
+  "name": "Parapuã",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "QUYG9xXzSSqTMPt/2GjyZQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Pardinho",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "qKn+sdLaSKCZiyQCbvlmgA==",
+      "subType": "04"
+    }
+  },
+  "name": "Pariquera-Açu",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "PwmfDyHZQm+zoAU0eJTVuw==",
+      "subType": "04"
+    }
+  },
+  "name": "Parisi",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "U/eQuCL0Qze3zCVaJeI4rA==",
+      "subType": "04"
+    }
+  },
+  "name": "Patrocínio Paulista",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "CW8flbOvQmacra886ASiqg==",
+      "subType": "04"
+    }
+  },
+  "name": "Paulicéia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "2ngokLvnREiF/P8FeCfn2w==",
+      "subType": "04"
+    }
+  },
+  "name": "Paulínia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "pBt3gC1jSQiIIZfGLOilLw==",
+      "subType": "04"
+    }
+  },
+  "name": "Paulistânia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "9QVywzoWSTWrJ6o0oV3UDg==",
+      "subType": "04"
+    }
+  },
+  "name": "Paulo de Faria",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "ZTm08Ej9RCSEBBJA99zK2A==",
+      "subType": "04"
+    }
+  },
+  "name": "Pederneiras",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "c+U7JviWTZuvzgdhQ/Y29Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Pedra Bela",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "awD5Ub6wRWakoIv2tk18dw==",
+      "subType": "04"
+    }
+  },
+  "name": "Pedranópolis",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "SS3G8SGZTYeFTCKYrUiO+g==",
+      "subType": "04"
+    }
+  },
+  "name": "Pedregulho",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "h1FyAhNPTKKPYZHd6zNVfg==",
+      "subType": "04"
+    }
+  },
+  "name": "Pedreira",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "o7oG7SbQTZSsU5sVThsw9A==",
+      "subType": "04"
+    }
+  },
+  "name": "Pedrinhas Paulista",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "2qZdD6fTRsq7a1KVrf0vQQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Pedro de Toledo",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "9LnQ8bGxQVuC3VhfKSjLZA==",
+      "subType": "04"
+    }
+  },
+  "name": "Penápolis",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "0ZCTCRP5S8Sn7xaQjE6Jag==",
+      "subType": "04"
+    }
+  },
+  "name": "Pereira Barreto",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "LopfK5svRsK2YaiF99RB3g==",
+      "subType": "04"
+    }
+  },
+  "name": "Pereiras",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "tKrBS4ufRMSK15KMuD0YlA==",
+      "subType": "04"
+    }
+  },
+  "name": "Peruíbe",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "wwoX0pWwQsGC4oeKAQk4Pg==",
+      "subType": "04"
+    }
+  },
+  "name": "Piacatu",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "AIgU9IUgRMaaAtvStTsZ+w==",
+      "subType": "04"
+    }
+  },
+  "name": "Piedade",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "shScxEwPTTiT0xMSFCV47A==",
+      "subType": "04"
+    }
+  },
+  "name": "Pilar do Sul",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "EqigbHRkQiOLUS+11VTtng==",
+      "subType": "04"
+    }
+  },
+  "name": "Pindamonhangaba",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "i3ZnOmBZS66cdNKRQhqGOg==",
+      "subType": "04"
+    }
+  },
+  "name": "Pindorama",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "wrUWt1zuRbyfogBlR4D95A==",
+      "subType": "04"
+    }
+  },
+  "name": "Pinhalzinho",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Vco6zCbfT7+1yRxuzMl4cA==",
+      "subType": "04"
+    }
+  },
+  "name": "Piquerobi",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Bs4LiK72T2ibvv1tcBOdUA==",
+      "subType": "04"
+    }
+  },
+  "name": "Piquete",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "ZmjHKLWHQSeXrNkXGkVqRQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Piracaia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "7XTXx2IoSGy9n8jeqa4efA==",
+      "subType": "04"
+    }
+  },
+  "name": "Piracicaba",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "0d98rB4SSUiwslMGo+vd+w==",
+      "subType": "04"
+    }
+  },
+  "name": "Piraju",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "WzMDo3CNT/OyDAmKdL33AQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Pirajuí",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "xii4a9ItSRmvu0KgYuhxog==",
+      "subType": "04"
+    }
+  },
+  "name": "Pirangi",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "ZpHS6P0WSsmGoD74FQ6xBg==",
+      "subType": "04"
+    }
+  },
+  "name": "Pirapora do Bom Jesus",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "k2XR+g6wQQKeOHpCXWLsew==",
+      "subType": "04"
+    }
+  },
+  "name": "Pirapozinho",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "WXGfGq2sTE+kubKBjUUQxw==",
+      "subType": "04"
+    }
+  },
+  "name": "Pirassununga",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "NY11565tTz6L4NhMjaP1MQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Piratininga",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "H6d4k4UzSICC8yDNa/7V7w==",
+      "subType": "04"
+    }
+  },
+  "name": "Pitangueiras",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "4g5ZVvOnRpqpOsqO6wbVUA==",
+      "subType": "04"
+    }
+  },
+  "name": "Planalto",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "4AMhse8pRnCjvP+lfcmoww==",
+      "subType": "04"
+    }
+  },
+  "name": "Platina",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "4GG1AXzuT3eEKlCdKyTIJA==",
+      "subType": "04"
+    }
+  },
+  "name": "Poá",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "JfZLO0w6TueYzAklY2VW4g==",
+      "subType": "04"
+    }
+  },
+  "name": "Poloni",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "XLJbO/x6QGmIhgFEqEvdlQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Pompéia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "QkvH9XzUQhiFLVveVxryJg==",
+      "subType": "04"
+    }
+  },
+  "name": "Pongaí",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "0StpiJgvRxW+CbDr/8pNiw==",
+      "subType": "04"
+    }
+  },
+  "name": "Pontal",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "vcHqsMJGQqad0n4uBKUEUw==",
+      "subType": "04"
+    }
+  },
+  "name": "Pontalinda",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "cewRRvNzQYGm8wrNPJzbUw==",
+      "subType": "04"
+    }
+  },
+  "name": "Pontes Gestal",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "uOsFuRMcRC+5ZrGdcxY7BA==",
+      "subType": "04"
+    }
+  },
+  "name": "Populina",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "YcDzmkLWT3uTCiLN8cUP6Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Porangaba",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "pAuIcrDvTCyrxJiQRgU8Mw==",
+      "subType": "04"
+    }
+  },
+  "name": "Porto Feliz",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "+4R8ReATREWhkq913+ToHA==",
+      "subType": "04"
+    }
+  },
+  "name": "Porto Ferreira",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "P4x+tKBqSUGubQWpo/lzkg==",
+      "subType": "04"
+    }
+  },
+  "name": "Potim",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "oyeM7NFqRJWhlQeMxhyP/Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Potirendaba",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "o/PJlQU4Ruel/UNHQnCwnA==",
+      "subType": "04"
+    }
+  },
+  "name": "Pracinha",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "8Nl3f26CQvK9bmhCxIE9UA==",
+      "subType": "04"
+    }
+  },
+  "name": "Pradópolis",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "NNEw8i7QSLi/R7HZoZYHEA==",
+      "subType": "04"
+    }
+  },
+  "name": "Praia Grande",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "p5thahpXRkKxLDMGXIf8rg==",
+      "subType": "04"
+    }
+  },
+  "name": "Pratânia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "3U6fxJiCSqi7s79c2ysTgw==",
+      "subType": "04"
+    }
+  },
+  "name": "Presidente Alves",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "jV0rPnn2Th+ZjBy7JNlifg==",
+      "subType": "04"
+    }
+  },
+  "name": "Presidente Bernardes",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "ip6YSB1wR3CeoYeJksHlUw==",
+      "subType": "04"
+    }
+  },
+  "name": "Presidente Epitácio",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "h/hhmvipSs6PN1wN3N8WrQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Presidente Prudente",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "1y+X5K+DSrCJBWxujJMP6g==",
+      "subType": "04"
+    }
+  },
+  "name": "Presidente Venceslau",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "mQZ1UWseRXuO7tuWVNQAqg==",
+      "subType": "04"
+    }
+  },
+  "name": "Promissão",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Oa8oOCKTS0WzMlF0ka5Hfg==",
+      "subType": "04"
+    }
+  },
+  "name": "Quadra",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "3WhEiESbT/CDOurrQFQIXg==",
+      "subType": "04"
+    }
+  },
+  "name": "Quatá",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "twUVAUjuR8Oj4qLc9mNnOw==",
+      "subType": "04"
+    }
+  },
+  "name": "Queiroz",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "UI1BHWugQISmzRwRWzLz4Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Queluz",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "KPTlFbUbQoqG4Bwf7u3hZg==",
+      "subType": "04"
+    }
+  },
+  "name": "Quintana",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "YW9xT3KPTjaz08hiL2aXow==",
+      "subType": "04"
+    }
+  },
+  "name": "Rafard",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "0/KhuzoZSaCmkjO6yuUqSg==",
+      "subType": "04"
+    }
+  },
+  "name": "Rancharia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "yjV+RmI/RsWAHFshadD1Ow==",
+      "subType": "04"
+    }
+  },
+  "name": "Redenção da Serra",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "GkAA10x7RHG4XA5jpLxqOw==",
+      "subType": "04"
+    }
+  },
+  "name": "Regente Feijó",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "DHl3TQnUS4+BUhCKnXsFvQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Reginópolis",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "DcjljQapQlC1sltyDSsIag==",
+      "subType": "04"
+    }
+  },
+  "name": "Registro",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "86Tw25SvQ+CsDU7qqk7bRA==",
+      "subType": "04"
+    }
+  },
+  "name": "Restinga",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "/+o9F14DRNiN3rjVR81X2g==",
+      "subType": "04"
+    }
+  },
+  "name": "Ribeira",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "+ehH+dMJQAOKQBKAXb6ytA==",
+      "subType": "04"
+    }
+  },
+  "name": "Ribeirão Bonito",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "5EwUldRVR6WzI83+fPlFiw==",
+      "subType": "04"
+    }
+  },
+  "name": "Ribeirão Branco",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "3DYooYyjTImKGnrutvCGzw==",
+      "subType": "04"
+    }
+  },
+  "name": "Ribeirão Corrente",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "NAB4qnkFTY2OMW/fCdJ5eQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Ribeirão do Sul",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "5XuegQUhSMmh/lZKl+ZHpg==",
+      "subType": "04"
+    }
+  },
+  "name": "Ribeirão dos Índios",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "KBop5Es0TvO7o8OnNZ4vcg==",
+      "subType": "04"
+    }
+  },
+  "name": "Ribeirão Grande",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "YTcj6nh8RbGrBd8FTHdwKA==",
+      "subType": "04"
+    }
+  },
+  "name": "Ribeirão Pires",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "yFX8uIccS8umNqWWEs9nVw==",
+      "subType": "04"
+    }
+  },
+  "name": "Ribeirão Preto",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "t3WMe3tSRrW9GcI1eHrDoQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Rifaina",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "3LPxojmbQi2OBMg8y5qUtw==",
+      "subType": "04"
+    }
+  },
+  "name": "Rincão",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "7IiSbL1NQNWLUVmHnypYqw==",
+      "subType": "04"
+    }
+  },
+  "name": "Rinópolis",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "jwU3HBjtTJO+JT5CUUZWzA==",
+      "subType": "04"
+    }
+  },
+  "name": "Rio Claro",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "HIh+A2zGTYKNUhiOUxIBJg==",
+      "subType": "04"
+    }
+  },
+  "name": "Rio das Pedras",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "suQ9Rec+RO2Jk/AA8CNXOw==",
+      "subType": "04"
+    }
+  },
+  "name": "Rio Grande da Serra",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "4LSplKx8SbauCJfFpP9YJQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Riolândia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "4dMcZMLaSNKMoN8zE7V7eA==",
+      "subType": "04"
+    }
+  },
+  "name": "Riversul",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "+rkjIWkCQtqM6pjLsli2mQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Rosana",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Wuc2giA2QzaCgyF1+7ggAg==",
+      "subType": "04"
+    }
+  },
+  "name": "Roseira",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "QQF+1KuOTBGiNKWHhLEgDA==",
+      "subType": "04"
+    }
+  },
+  "name": "Rubiácea",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Q6RK6QHVR+W80ZmybohfOg==",
+      "subType": "04"
+    }
+  },
+  "name": "Rubinéia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "uv7EQPZdQYWvkihhbfb7Pw==",
+      "subType": "04"
+    }
+  },
+  "name": "Sabino",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "bidmEdARTDijG084Fgsfvg==",
+      "subType": "04"
+    }
+  },
+  "name": "Sagres",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "73IzQQscQ2miGrsNFUh+bw==",
+      "subType": "04"
+    }
+  },
+  "name": "Sales",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "frGbUk2wQmOlucmGN1hFkw==",
+      "subType": "04"
+    }
+  },
+  "name": "Sales Oliveira",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "V7kqy0IkRf6QbUdgpcjn6A==",
+      "subType": "04"
+    }
+  },
+  "name": "Salesópolis",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "lVbaiFW1SuCFfkVm1qw6PA==",
+      "subType": "04"
+    }
+  },
+  "name": "Salmourão",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "4N5Ciz83RG2/9x8w7MX8Zw==",
+      "subType": "04"
+    }
+  },
+  "name": "Saltinho",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "mGoMPGI/TyWujPyTfHllBg==",
+      "subType": "04"
+    }
+  },
+  "name": "Salto",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "0Tj8KpOQSOS6LS6dhpU9YQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Salto de Pirapora",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Fd0tuuheTiCJHFZBKORZrQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Salto Grande",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "jLVaCmJEQOqc9GZk06jJSw==",
+      "subType": "04"
+    }
+  },
+  "name": "Sandovalina",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "IGv23gbxSWajXZsZXbvZEg==",
+      "subType": "04"
+    }
+  },
+  "name": "Santa Adélia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "d3ds8uT6TPyePUn9CsRrYg==",
+      "subType": "04"
+    }
+  },
+  "name": "Santa Albertina",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "6qNHKfq3QD2VRPUotb9YQA==",
+      "subType": "04"
+    }
+  },
+  "name": "Santa Bárbara d'Oeste",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "GBEC13qxQxuFfHXG7pLgAg==",
+      "subType": "04"
+    }
+  },
+  "name": "Santa Branca",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "q5bRhEqVQrSjAnv8S5Cu1w==",
+      "subType": "04"
+    }
+  },
+  "name": "Santa Clara d'Oeste",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "IDIPe3eaRES1wmclKYxARQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Santa Cruz da Conceição",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "JqmWtVglTZ+EJJWIzBDQtQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Santa Cruz da Esperança",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "e9Su0bfwRnOcdaMlZIRMMg==",
+      "subType": "04"
+    }
+  },
+  "name": "Santa Cruz das Palmeiras",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "nFzUai39R2qvvLJgDqzjgA==",
+      "subType": "04"
+    }
+  },
+  "name": "Santa Cruz do Rio Pardo",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "YQjPD0ErTQexSRdxJfJj7Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Santa Ernestina",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "EsJ2M/UESVq8x1VFVNIj3A==",
+      "subType": "04"
+    }
+  },
+  "name": "Santa Fé do Sul",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "z9gQUMVkR2eWx6tpkAi0kA==",
+      "subType": "04"
+    }
+  },
+  "name": "Santa Gertrudes",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "HIq2/FqoTJSd2EwP6VrFJQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Santa Isabel",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "PfYElsUpQdm9+XmH8BP4SA==",
+      "subType": "04"
+    }
+  },
+  "name": "Santa Lúcia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "OFirriirS1yqDqPEonfmvg==",
+      "subType": "04"
+    }
+  },
+  "name": "Santa Maria da Serra",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "3FAUhcinRWyj/HurnEu7xA==",
+      "subType": "04"
+    }
+  },
+  "name": "Santa Mercedes",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "3M/s8ezjSuCToDr18YMl/A==",
+      "subType": "04"
+    }
+  },
+  "name": "Santa Rita d'Oeste",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "gxFpGmmRQ7moE+zCJ9cwWw==",
+      "subType": "04"
+    }
+  },
+  "name": "Santa Rita do Passa Quatro",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "9QxR8wnyR4SoQ8ULiK5rAg==",
+      "subType": "04"
+    }
+  },
+  "name": "Santa Rosa de Viterbo",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "yyLfkK+cTSS5co6T4oGSfA==",
+      "subType": "04"
+    }
+  },
+  "name": "Santa Salete",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "5o3dFzW7R3aNU+m6Ut9SDg==",
+      "subType": "04"
+    }
+  },
+  "name": "Santana da Ponte Pensa",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "m9LMM8sQRxiry+Z/BQRNLw==",
+      "subType": "04"
+    }
+  },
+  "name": "Santana de Parnaíba",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "cHz2GFBARPSjEhXbX3geow==",
+      "subType": "04"
+    }
+  },
+  "name": "Santo Anastácio",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "LSGO9EB2SyuhozFLcMSFNQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Santo André",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "+8a0QcJ+Qka0Vc2u+ZGoJw==",
+      "subType": "04"
+    }
+  },
+  "name": "Santo Antônio da Alegria",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "dcM48cy+SZaMxLBH6EONOg==",
+      "subType": "04"
+    }
+  },
+  "name": "Santo Antônio de Posse",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "rYycURnMRomT8WVmDT4jfA==",
+      "subType": "04"
+    }
+  },
+  "name": "Santo Antônio do Aracanguá",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "1teWehZ1RTeqN56Vhvm7UQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Santo Antônio do Jardim",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "hOe6vw2GT2u6JgWrZHOlzw==",
+      "subType": "04"
+    }
+  },
+  "name": "Santo Antônio do Pinhal",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "b6uJ4po4TaOCy6+6/RWqLg==",
+      "subType": "04"
+    }
+  },
+  "name": "Santo Expedito",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "fMYo4srNS8ae97/eJJOuKg==",
+      "subType": "04"
+    }
+  },
+  "name": "Santópolis do Aguapeí",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Jy2wh79+Q0GS1O9695kIxQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Santos",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "/+42Vd6yQAWvsdYYZ7XDKA==",
+      "subType": "04"
+    }
+  },
+  "name": "São Bento do Sapucaí",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "r9S0oi3tSZ2hF8ozvMGGvA==",
+      "subType": "04"
+    }
+  },
+  "name": "São Bernardo do Campo",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Jjwk2BFTR8usMbPG9LtqSw==",
+      "subType": "04"
+    }
+  },
+  "name": "São Caetano do Sul",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "wGkucf5yQmGaATPZGTMBJA==",
+      "subType": "04"
+    }
+  },
+  "name": "São Carlos",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "d1Y8fEcCTE+N3wSbwBmqHg==",
+      "subType": "04"
+    }
+  },
+  "name": "São Francisco",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "k2QC/L/0RrCcxD++DlnlYQ==",
+      "subType": "04"
+    }
+  },
+  "name": "São João da Boa Vista",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "6AKFMfmhSdCopG1uUyI4lA==",
+      "subType": "04"
+    }
+  },
+  "name": "São João das Duas Pontes",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "52M+NRBJTHO2bkvpE5fRgQ==",
+      "subType": "04"
+    }
+  },
+  "name": "São João de Iracema",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "XZAky3QcTuKpl5fUz7AAWw==",
+      "subType": "04"
+    }
+  },
+  "name": "São João do Pau d'Alho",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "g+DdNxi0TSieU0lxk+TYgw==",
+      "subType": "04"
+    }
+  },
+  "name": "São Joaquim da Barra",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "oMoTyBh6RAmk+DwRu9fGXg==",
+      "subType": "04"
+    }
+  },
+  "name": "São José da Bela Vista",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "TzqBFIIeRdWahaGGFLmd/w==",
+      "subType": "04"
+    }
+  },
+  "name": "São José do Barreiro",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "2wFQh+moQB2wrhL3mEG4IQ==",
+      "subType": "04"
+    }
+  },
+  "name": "São José do Rio Pardo",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "P50l5pyEQFOUmlskfCq0+A==",
+      "subType": "04"
+    }
+  },
+  "name": "São José do Rio Preto",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "0rz7TqvcRpuGJUuO5L7hew==",
+      "subType": "04"
+    }
+  },
+  "name": "São José dos Campos",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "eDCPjjbpQDCglNuVCcrtEg==",
+      "subType": "04"
+    }
+  },
+  "name": "São Lourenço da Serra",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "hUG1dT+4Q02BlMycvFiTXQ==",
+      "subType": "04"
+    }
+  },
+  "name": "São Luís do Paraitinga",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "xPqlk5a3TUa6iuOhISvKvg==",
+      "subType": "04"
+    }
+  },
+  "name": "São Manuel",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "HPut4WBVTPOxaWfAEBIIiA==",
+      "subType": "04"
+    }
+  },
+  "name": "São Miguel Arcanjo",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "XUmt2h/bSU2cbrgONd0DKQ==",
+      "subType": "04"
+    }
+  },
+  "name": "São Paulo",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "XNBInibvSK2Bl03uLGdLww==",
+      "subType": "04"
+    }
+  },
+  "name": "São Pedro",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "VxIK2OI6TQOwlqCIzN6m8w==",
+      "subType": "04"
+    }
+  },
+  "name": "São Pedro do Turvo",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "8v9pEMDZSNeg1VBbDXVhmQ==",
+      "subType": "04"
+    }
+  },
+  "name": "São Roque",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "rA38XwE4Qayg4sIyjwIcgA==",
+      "subType": "04"
+    }
+  },
+  "name": "São Sebastião",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "8C79+h8RQaSEdEyib+OxfA==",
+      "subType": "04"
+    }
+  },
+  "name": "São Sebastião da Grama",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "9s2Zj+g/RVOdDzh7H6touQ==",
+      "subType": "04"
+    }
+  },
+  "name": "São Simão",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "6pyI4wNPQKCAEHXcoKujrw==",
+      "subType": "04"
+    }
+  },
+  "name": "São Vicente",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "GjmhspGsRseuvMhAclfEpQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Sarapuí",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "R5JMuPjHRh25yrEbga+5bw==",
+      "subType": "04"
+    }
+  },
+  "name": "Sarutaiá",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "MHuQdu6TTmOY05d8+/SXhA==",
+      "subType": "04"
+    }
+  },
+  "name": "Sebastianópolis do Sul",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "XxpaLPqoQlaXtAwq20ZhIQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Serra Azul",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "vk2GdLQ/T0yaIVNowC7HpA==",
+      "subType": "04"
+    }
+  },
+  "name": "Serra Negra",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "I2KP2oQpSpGqLAWkyyf3Cg==",
+      "subType": "04"
+    }
+  },
+  "name": "Serrana",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "FyThA+YKRH2A+RGgjBxhpQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Sertãozinho",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "CLZEchdiRVy+TvW9Rg/7kA==",
+      "subType": "04"
+    }
+  },
+  "name": "Sete Barras",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "sxFPvKdvT7qh27ojMKA9gQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Severínia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "vxus3t+sSKqY5RlIkEPxFQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Silveiras",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "b4VOUPtUSs6oi+Tt5Tv4hQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Socorro",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "aGoNqRMsRhaFeSGZ8bru2A==",
+      "subType": "04"
+    }
+  },
+  "name": "Sorocaba",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "hl6Q3hOFRny2CiBw95SgFw==",
+      "subType": "04"
+    }
+  },
+  "name": "Sud Mennucci",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "CO9bPkiFS9SWL1ssap33Pg==",
+      "subType": "04"
+    }
+  },
+  "name": "Sumaré",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "DV5UycXTQn28ew1br4uHYw==",
+      "subType": "04"
+    }
+  },
+  "name": "Suzanápolis",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "HSni40KMSfK82Tx7ndSOig==",
+      "subType": "04"
+    }
+  },
+  "name": "Suzano",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "+KRjoOGOQEiR2+vTceD9DQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Tabapuã",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "7s3jSdbJRQSANC3MNzxleA==",
+      "subType": "04"
+    }
+  },
+  "name": "Tabatinga",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "W6A5jfauQCGK190ckNX/BQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Taboão da Serra",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "/E93GUnyQgOVN2PuFjPOzg==",
+      "subType": "04"
+    }
+  },
+  "name": "Taciba",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "7PjulFEeQLS3n4jEsc6w0g==",
+      "subType": "04"
+    }
+  },
+  "name": "Taguaí",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "cIeEff0ZSEWl5LY9A3zYbg==",
+      "subType": "04"
+    }
+  },
+  "name": "Taiaçu",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "gZUmBPNBRmKLvktQVQnUjQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Taiúva",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Nqb3K5gNRuaz1VtTcem+ng==",
+      "subType": "04"
+    }
+  },
+  "name": "Tambaú",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "uU2yfBzESZSAcVE3vqta1Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Tanabi",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "EOFoqe6dTwGNndJy3oyD6w==",
+      "subType": "04"
+    }
+  },
+  "name": "Tapiraí",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "QZDziuUnR5Wttrt++s6olQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Tapiratiba",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "litR89WHSJSX8w0Rw9JsFQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Taquaral",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "dyIQLOIeTaCP2VxUf2fY3A==",
+      "subType": "04"
+    }
+  },
+  "name": "Taquaritinga",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "he5gCSLDQ/yn4+jmOLqCIQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Taquarituba",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "FYdkJbfcR6GdivXe631dRg==",
+      "subType": "04"
+    }
+  },
+  "name": "Taquarivaí",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "NqfHK7ooTTWl5IDsyi/bAw==",
+      "subType": "04"
+    }
+  },
+  "name": "Tarabai",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "uuHT0JfQQ0+lfBMynJ4BKA==",
+      "subType": "04"
+    }
+  },
+  "name": "Tarumã",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "nBjmeoZyTKeyaRXHdK9UIQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Tatuí",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "2vCZoZd0RiibcDwtpYFBoA==",
+      "subType": "04"
+    }
+  },
+  "name": "Taubaté",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "mEfwSFQTTsuobH6ouZ4d8g==",
+      "subType": "04"
+    }
+  },
+  "name": "Tejupá",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "hpljK/PERjWGMb2O5Yt1cg==",
+      "subType": "04"
+    }
+  },
+  "name": "Teodoro Sampaio",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "yTU8TBlMQx2kokId4BYpRQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Terra Roxa",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "OxjyZz2UQhCGtbUdQWwVkQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Tietê",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "j4MY6ithS9GQ3gf9Uj827g==",
+      "subType": "04"
+    }
+  },
+  "name": "Timburi",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "u58Dl4O9RUuXbXWtyMdaIw==",
+      "subType": "04"
+    }
+  },
+  "name": "Torre de Pedra",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Hzf1UaVKTDybB9LmWWe5RQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Torrinha",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "41CMZ6UiQguqg8aIkfnWmw==",
+      "subType": "04"
+    }
+  },
+  "name": "Trabiju",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "R0K54rAmRkqq4z0VNk8Hyg==",
+      "subType": "04"
+    }
+  },
+  "name": "Tremembé",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "cedIzPkrSwm3MMNTivPeiQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Três Fronteiras",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "LDkFSR5sSkKE5Col5+CMWQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Tuiuti",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "kThAOc4XQOehDAh9bH5HfA==",
+      "subType": "04"
+    }
+  },
+  "name": "Tupã",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "I1uiJaLaQyKxSN/pPPRf5A==",
+      "subType": "04"
+    }
+  },
+  "name": "Tupi Paulista",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "RhS62oRvRDWiAFrReH75Tg==",
+      "subType": "04"
+    }
+  },
+  "name": "Turiúba",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "QYz4H9ddRTmtI51TD8JfUQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Turmalina",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "2qL1nV1IQpe78cLdJqh1kQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Ubarana",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "C4YIzOZMTdaLioAAbVjFgA==",
+      "subType": "04"
+    }
+  },
+  "name": "Ubatuba",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "KPImKtsrREOsI/zoytuFqA==",
+      "subType": "04"
+    }
+  },
+  "name": "Ubirajara",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "baZNX7YVQiG1qefmUe/V5Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Uchoa",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "f1DxTow8Q12MVfeSpBSaGg==",
+      "subType": "04"
+    }
+  },
+  "name": "União Paulista",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "5rhfDgGHQViFFhGiVfIWzA==",
+      "subType": "04"
+    }
+  },
+  "name": "Urânia",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "TqKLUDIDQDeEKrqDjkKGIw==",
+      "subType": "04"
+    }
+  },
+  "name": "Uru",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "s0Rm912uTQikSbphBslCLg==",
+      "subType": "04"
+    }
+  },
+  "name": "Urupês",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "vxbdQk81S0Kj/e2dM8wTOA==",
+      "subType": "04"
+    }
+  },
+  "name": "Valentim Gentil",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "/j896pw5Q2mzyOkQLcc+0A==",
+      "subType": "04"
+    }
+  },
+  "name": "Valinhos",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "LJIe/dk8RJG/4j3aMzwz4w==",
+      "subType": "04"
+    }
+  },
+  "name": "Valparaíso",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "OGzAPNzdS+eNlieKBSs5lQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Vargem",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "7JdVVPzoSdCKiRHkFv7YOA==",
+      "subType": "04"
+    }
+  },
+  "name": "Vargem Grande do Sul",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "ymZh/E5QQE2HiDfHVH9bNA==",
+      "subType": "04"
+    }
+  },
+  "name": "Vargem Grande Paulista",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "k5XgEE5rRHiesZBuCpc1jQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Várzea Paulista",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "MyxyWlklSYi9zBLekOXpuQ==",
+      "subType": "04"
+    }
+  },
+  "name": "Vera Cruz",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "V3a7uVwrTMyGvVE3yaGoQg==",
+      "subType": "04"
+    }
+  },
+  "name": "Vinhedo",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "bdUQW6qjTUe0+aOSEbWDJg==",
+      "subType": "04"
+    }
+  },
+  "name": "Viradouro",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "H5nFu7vFTgOHAkmeZdIoYA==",
+      "subType": "04"
+    }
+  },
+  "name": "Vista Alegre do Alto",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "4BGlufUOS22Ifs+hmpTnoA==",
+      "subType": "04"
+    }
+  },
+  "name": "Vitória Brasil",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "xhDFM4MnRPaEQtxJBlmm3w==",
+      "subType": "04"
+    }
+  },
+  "name": "Votorantim",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "Sbg+pgtiQpOnWiHISsGj+Q==",
+      "subType": "04"
+    }
+  },
+  "name": "Votuporanga",
+  "state": "SP"
+},{
+  "_id": {
+    "$binary": {
+      "base64": "1qOmupVwQQ+u7I/1TCybUw==",
+      "subType": "04"
+    }
+  },
+  "name": "Zacarias",
+  "state": "SP"
+}]
