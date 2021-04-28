@@ -19,7 +19,12 @@ module.exports = {
         let meters = req.query.meters;
 
 
-        var statistics = await SquareMetersService.getStatistics(cityId);
+        var statistics = await SquareMetersService.getStatistics(cityId).catch(
+            err => {
+                console.log(err);
+                throw new Error(err);
+            }
+        );
 
         const budget = new Budget(
             statistics.totalProperties, 
