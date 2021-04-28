@@ -1,5 +1,4 @@
-﻿using System;
-namespace SquareMetersValue.Domain.Core
+﻿namespace SquareMetersValue.Domain.Core
 {
     public class Notification
     {

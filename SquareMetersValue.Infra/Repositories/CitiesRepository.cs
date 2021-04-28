@@ -1,5 +1,4 @@
-﻿using System;
-using SquareMetersValue.Domain.Infra.Interfaces;
+﻿using SquareMetersValue.Domain.Infra.Interfaces;
 using SquareMetersValue.Domain.Models;
 using SquareMetersValue.Infra.Configurations;
 

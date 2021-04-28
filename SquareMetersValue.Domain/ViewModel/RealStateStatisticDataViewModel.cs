@@ -1,20 +1,22 @@
-﻿using System;
-namespace SquareMetersValue.Domain.ViewModel
+﻿namespace SquareMetersValue.Domain.ViewModel
 {
     public class RealStateStatisticDataViewModel
     {
         public RealStateStatisticDataViewModel(
             int totalProperties,
-            decimal squareMeterAveragePrice,
+            string squareMeterAveragePrice,
+            decimal squareMeterAveragePriceValue,
             string cityName)
         {
             TotalProperties = totalProperties;
             SquareMeterAveragePrice = squareMeterAveragePrice;
+            SquareMeterAveragePriceValue = squareMeterAveragePriceValue;
             CityName = cityName;
         }
 
         public int TotalProperties { get; set; }
-        public decimal SquareMeterAveragePrice { get; set; }
+        public string SquareMeterAveragePrice { get; set; }
+        public decimal SquareMeterAveragePriceValue { get; set; }
         public string CityName { get; set; }
     }
 }

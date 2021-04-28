@@ -1,12 +1,13 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using SquareMetersValue.Domain.Core;
 
 namespace SquareMetersValue.Domain.Models
 {
-    public class RealEstateStatisticData : Base
+    public class Statistic : Base
     {
-        public RealEstateStatisticData(List<Property> properties)
+        public Statistic(List<Property> properties)
         {
             var totalCities = properties
                 .Select(x => x.CityId)
@@ -22,7 +23,7 @@ namespace SquareMetersValue.Domain.Models
 
             TotalAccounted = properties.Count;
             SetAveregePerSquareMeter(properties);
-            Validate(this, new RealEstateStatisticDataValidator());
+            Validate(this, new StatisticValidator());
         }
 
         public int TotalAccounted { get; private set; }
@@ -35,7 +36,15 @@ namespace SquareMetersValue.Domain.Models
             var average = sumOfSquareMeter / TotalAccounted;
 
             AveregePerSquareMeter = average;
-            
+        }
+
+        public string GetAverageDisplay()
+        {
+
+            var displayNumber = Math.Round(AveregePerSquareMeter, 2, MidpointRounding.AwayFromZero);
+            var displayString = displayNumber.ToString();
+
+            return displayString;
         }
 
     }
