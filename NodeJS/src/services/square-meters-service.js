@@ -1,5 +1,5 @@
 const axios = require('axios');
-const path = 'http://localhost:8080'
+const path = process.env.MAIN_API // 'http://squaremetersvalueapi:80'
 
 module.exports = {
 

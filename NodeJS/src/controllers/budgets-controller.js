@@ -27,7 +27,6 @@ module.exports = {
             statistics.cityName,
             meters
         )
-
         res.status(200).send(budget);
 
     }
