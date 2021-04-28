@@ -85,14 +85,11 @@ namespace SquareMetersValue.Api
             app.UseSwagger();
             app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "SquareMetersValue.Api v1"));
 
-            app.UseCors(options =>
-            {
-                options.WithOrigins(
-                    "*");
-                options.AllowAnyMethod();
-                options.AllowAnyHeader();
-                options.AllowCredentials();
-            });
+            app.UseCors(x => x
+                .AllowAnyMethod()
+                .AllowAnyHeader()
+                .SetIsOriginAllowed(origin => true) // allow any origin
+                ); // allow credentials
 
             app.UseHttpsRedirection();
 
