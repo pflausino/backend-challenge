@@ -27,7 +27,7 @@ module.exports = {
         );
 
 
-        console.log(err);
+        console.log(statistics);
 
 
         const budget = new Budget(
