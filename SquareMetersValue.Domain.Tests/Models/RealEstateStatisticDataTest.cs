@@ -1,14 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using SquareMetersValue.Domain.Models;
 using Xunit;
 
 namespace SquareMetersValue.Domain.Tests.Entities
 {
-    public class RealEstateStatisticDataTest
+    public class StatisticTest
     {
-        public RealEstateStatisticDataTest()
+        public StatisticTest()
         {
 
         }
@@ -17,7 +16,7 @@ namespace SquareMetersValue.Domain.Tests.Entities
         public void Constructor_PassingAListOfProperty_CreateObject()
         {
             //Arrange
-            var city = new City("campinas","sp");
+            var city = new City("campinas", "sp");
             var properties = new List<Property>
             {
                 new Property(100, (decimal)100000.00, city.Id, "Sobrado 2 Quartos"),
@@ -27,7 +26,7 @@ namespace SquareMetersValue.Domain.Tests.Entities
 
             };
             //Act
-            var realEstateStatisticData = new RealEstateStatisticData(
+            var realEstateStatisticData = new Statistic(
                 properties
             );
             //Assert
@@ -55,7 +54,7 @@ namespace SquareMetersValue.Domain.Tests.Entities
 
             };
             //Act
-            var realEstateStatisticData = new RealEstateStatisticData(
+            var realEstateStatisticData = new Statistic(
                 properties
             );
             //Assert
@@ -67,7 +66,28 @@ namespace SquareMetersValue.Domain.Tests.Entities
             Assert.Single(realEstateStatisticData.ValidationResult.Errors);
 
         }
+        [Fact]
+        public void GetAverageDisplay_PassingValidAverage_ReturnFormatedString()
+        {
+            //Arrange
+            var city = new City("campinas", "sp");
+            var properties = new List<Property>
+            {
+                new Property(100, (decimal)100000.50, city.Id, "Sobrado 2 Quartos"),
+                new Property(100, (decimal)100000.25, city.Id, "Apartamento" ),
+            };
+            var statistic = new Statistic(
+                properties
+            );
+            //Act
+            var displayAverage = statistic.GetAverageDisplay();
 
+            //Assert
+            Assert.Equal(
+                "1000.00",
+                displayAverage
+            );
 
+        }
     }
 }

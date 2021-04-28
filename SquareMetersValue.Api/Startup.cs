@@ -1,18 +1,12 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
+using System.IO;
 using System.Reflection;
-using System.Threading.Tasks;
 using FluentValidation.AspNetCore;
 using MediatR;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using SquareMetersValue.Api.Filters;
 using SquareMetersValue.Domain.Commands;
@@ -47,7 +41,21 @@ namespace SquareMetersValue.Api
 
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "SquareMetersValue.Api", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo
+                {
+                    Title = "Square Meters Value",
+                    Version = "v1",
+                    Description = "This api calculates the average value of the square meter in a given city ",
+                    Contact = new OpenApiContact
+                    {
+                        Name = "Paulo Flausino",
+                        Email = "calderaro95@hotmail.com",
+                        Url = new Uri("https://github.com/pflausino/backend-challenge"),
+                    },
+                });
+                var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+                var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+                c.IncludeXmlComments(xmlPath);
             });
 
             services.AddControllers(opt =>

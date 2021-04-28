@@ -42,10 +42,11 @@ namespace SquareMetersValue.Domain.Handlers
                 return Result.Failure<RealStateStatisticDataViewModel, Error>(
                     Error.NotFound(nameof(Property) + "By CityId", request.CityId));
 
-            var statisticData = new RealEstateStatisticData(properties.ToList());
+            var statisticData = new Statistic(properties.ToList());
 
             var result = new RealStateStatisticDataViewModel(
                 statisticData.TotalAccounted,
+                statisticData.GetAverageDisplay(),
                 statisticData.AveregePerSquareMeter,
                 city.DisplayName);
 
