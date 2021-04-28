@@ -1,1 +1,1 @@
-web: sh -c 'cd ./NodeJS && yarn start'
+web: node NodeJS/app.js'
