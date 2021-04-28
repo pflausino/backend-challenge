@@ -482,3 +482,4 @@ SquareMetersValue.Api/appsettings.json
 .DS_Store
 omnisharp.json
 db/mongo-volume/*
+docker-compose-prod.yml
