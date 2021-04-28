@@ -12,14 +12,23 @@ module.exports = {
         if (!errors.isEmpty()) {
           return res.status(400).json({ errors: errors.array() });
         }
-        var cities = await SquareMetersService.getCities();
+        //var cities = await SquareMetersService.getCities();
 
             // Access the provided 'page' and 'limt' query parameters
         let cityId = req.params.id
         let meters = req.query.meters;
 
 
-        var statistics = await SquareMetersService.getStatistics(cityId);
+        var statistics = await SquareMetersService.getStatistics(cityId).catch(
+            err => {
+                console.log(err);
+                throw new Error(err);
+            }
+        );
+
+
+        console.log(statistics);
+
 
         const budget = new Budget(
             statistics.totalProperties, 
