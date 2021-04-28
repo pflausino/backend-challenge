@@ -12,7 +12,7 @@ module.exports = {
         if (!errors.isEmpty()) {
           return res.status(400).json({ errors: errors.array() });
         }
-        var cities = await SquareMetersService.getCities();
+        //var cities = await SquareMetersService.getCities();
 
             // Access the provided 'page' and 'limt' query parameters
         let cityId = req.params.id
