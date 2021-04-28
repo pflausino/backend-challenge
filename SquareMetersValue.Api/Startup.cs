@@ -34,6 +34,7 @@ namespace SquareMetersValue.Api
 
             MongoDbPersistence.Configure();
 
+            services.AddCors();
 
             var assembly = AppDomain.CurrentDomain.Load("SquareMetersValue.Domain");
 
@@ -83,6 +84,15 @@ namespace SquareMetersValue.Api
             app.UseDeveloperExceptionPage();
             app.UseSwagger();
             app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "SquareMetersValue.Api v1"));
+
+            app.UseCors(options =>
+            {
+                options.WithOrigins(
+                    "*");
+                options.AllowAnyMethod();
+                options.AllowAnyHeader();
+                options.AllowCredentials();
+            });
 
             app.UseHttpsRedirection();
 
