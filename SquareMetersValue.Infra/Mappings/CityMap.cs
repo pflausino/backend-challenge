@@ -1,5 +1,4 @@
-﻿using System;
-using MongoDB.Bson.Serialization;
+﻿using MongoDB.Bson.Serialization;
 using SquareMetersValue.Domain.Models;
 
 namespace SquareMetersValue.Infra.Mappings

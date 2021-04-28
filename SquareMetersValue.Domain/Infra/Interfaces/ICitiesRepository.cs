@@ -1,5 +1,4 @@
-﻿using System;
-using SquareMetersValue.Domain.Models;
+﻿using SquareMetersValue.Domain.Models;
 
 namespace SquareMetersValue.Domain.Infra.Interfaces
 {

@@ -1,0 +1,17 @@
+# Please refer https://aka.ms/HTTPSinContainer on how to setup an https developer certificate for your ASP .NET Core service.
+
+version: '3.4'
+
+services:
+  squaremetersvalueapi:
+    image: squaremetercalculator.azurecr.io/square-meter-calculator
+    container_name: "squaremetersvalue-api"
+    build:
+      context: .
+      dockerfile: SquareMetersValue.Api/Dockerfile
+    ports:
+      - 8080:80
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Production
+      - MongoSettings__Connection=mongodb+srv://dbAccess:S9EqFl7kKywKBYAk@cluster1.02byq.mongodb.net/squere-meters-calculator?retryWrites=true&w=majority
+      - MongoSettings__DatabaseName=squere-meters-calculator

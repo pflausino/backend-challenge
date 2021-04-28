@@ -1,5 +1,4 @@
-﻿using System;
-namespace SquareMetersValue.Domain.Enums
+﻿namespace SquareMetersValue.Domain.Enums
 {
     public enum ErrorType
     {

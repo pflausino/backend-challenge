@@ -1,5 +1,4 @@
-﻿using System;
-using System.Threading.Tasks;
+﻿using System.Threading.Tasks;
 using Autofac.Extras.Moq;
 using AutoFixture;
 using Microsoft.AspNetCore.Mvc;
@@ -22,7 +21,7 @@ namespace SquareMetersValue.Api.Tests.Controllers
 
             using var autoMock = AutoMock.GetLoose();
 
-            var controller = autoMock.Create<PropertyController>();
+            var controller = autoMock.Create<PropertiesController>();
 
             //Act
             var result = await controller.Post(command) as NoContentResult;

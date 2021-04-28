@@ -1,17 +1,9 @@
 ﻿using System;
-using System.Threading;
 using System.Threading.Tasks;
 using Autofac.Extras.Moq;
 using AutoFixture;
-using CSharpFunctionalExtensions;
-using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using Moq;
 using SquareMetersValue.Api.Controllers;
-using SquareMetersValue.Domain.Core;
-using SquareMetersValue.Domain.Models;
-using SquareMetersValue.Domain.Queries;
-using SquareMetersValue.Domain.ViewModel;
 using Xunit;
 
 namespace SquareMetersValue.Api.Tests.Controllers
@@ -28,7 +20,7 @@ namespace SquareMetersValue.Api.Tests.Controllers
             //Arrange
             using var autoMock = AutoMock.GetLoose();
 
-            var controller = autoMock.Create<PropertyStatisticController>();
+            var controller = autoMock.Create<StatisticsController>();
             //Act
             var result = await controller.Get(Guid.Empty) as BadRequestObjectResult;
 
