@@ -26,6 +26,10 @@ module.exports = {
             }
         );
 
+
+        console.log(err);
+
+
         const budget = new Budget(
             statistics.totalProperties, 
             statistics.squareMeterAveragePrice, 
