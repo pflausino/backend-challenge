@@ -32,6 +32,9 @@ namespace SquareMetersValue.Api.Controllers
 
             var result = await _mediator.Send(query);
 
+            if (result.IsFailure)
+                return BadRequest(result.Error);
+
 
             return Ok(result.Value);
 

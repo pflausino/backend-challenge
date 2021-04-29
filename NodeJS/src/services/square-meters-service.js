@@ -9,9 +9,6 @@ module.exports = {
         return response.data
     },
     async getStatistics(id) {
-        console.log("Aim HERE");
-        console.log(path + `/api/v1/city/${id}/statistics`);
-        
         const response = await axios.get(path + `/api/v1/city/${id}/statistics`)
         
         return response.data
