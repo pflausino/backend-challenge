@@ -14,16 +14,16 @@ Essa Repositório contém **2** projetos sendo:
 
 A maior parte da implementação e das regras de negocio estão na API1 escrita em **.NET5** no entanto, a o endpoit de proposito final está na API2 escrita em **NODE JS**
 
-Fiz dessa maneira afim de demonstrar a aptião em cada uma das stacks sendo a de .NET mais recorrente no meu dia a dia
+Fiz dessa maneira afim de demonstrar a aptião em cada uma das stacks sendo a de .NET mais recorrente no meu dia a dia atual 
 
 ## Estrutura
 
-Em termos de infraestrutura de deploy esta sendo proposto 2 fluxos sendo o a API1 containerizado e o da API2 em heroku vm
+Em termos de infraestrutura de deploy esta sendo demonstrado 2 fluxos sendo: O a API1 containerizado e o da API2 em heroku vm
 <p align="center">
 <img align="center" width="700" height="500" src="https://drive.google.com/uc?id=1_BTT1JOaivqhX30LYbayeXbzZPA4GPSJ">>
 </p>
 
-Perceba que independente independente da estrutura em deploy, quando estamos em dev usamos o docker composer para facilidar e axecução em diferentes máquinas
+Perceba que independente independente da estrutura em deploy, quando estamos em dev com máquinas locais, usamos o docker composer para facilidar e execução em diferentes ambientes
 
 ## Tecnologias e conceitos de desenvolvimento
 
@@ -54,7 +54,7 @@ O Swagger foi configurado (que agora já vem por padrão no .NET5)
 
 Agora Node **(API2)**
 
-Bem mais simples, essa api em Javascript usa o pacote Express JS como base, Axios foi o client http usado para se comunicar com a API1. Ela encontro sob o diretorio 
+Bem mais simples, essa api em Javascript usa o pacote Express JS como base, Axios foi o client http usado para se comunicar com a API1. Ela se encontra sob o diretório 
 ```
 ./NodeJS/
 ```
