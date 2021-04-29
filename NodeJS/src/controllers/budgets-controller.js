@@ -28,12 +28,9 @@ module.exports = {
         );
 
 
-        console.log(statistics);
-
-
         const budget = new Budget(
             statistics.totalProperties, 
-            statistics.squareMeterAveragePrice, 
+            statistics.squareMeterAveragePriceValue, 
             statistics.cityName,
             meters
         )
