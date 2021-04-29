@@ -44,7 +44,7 @@ Foram usados os Patterns:
 
 Foram usados Value Objects para evitar Primitive Obsession, Teste Unitários foram desenvolvidos para Controllers mas Principalmente para o Domínio.
 
-Para testes foi usado o Framework XUnit com as libs AutoFixture, Moq e Auto.Moq
+Para testes foi usado o Framework XUnit com as libs AutoFixture, Moq e Auto.Moq. Para tal foi usado o padrão de Testes unitários recomendado pela [Microsoft](https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-best-practices "Unit testing best practices with .NET Core and .NET Standard")
 
 O Swagger foi configurado (que agora já vem por padrão no .NET5)
 
@@ -99,3 +99,38 @@ https://squaremeters-budget-api.herokuapp.com/api-docs/
 ```
 
 ## Troubleshooting
+
+
+#### Erro ao Montar o banco
+ 
+Ao subir o container mongo a primeira vez, o docker compose irá importar dados automaticamente
+
+Dependendo como for a configuração do docker no Windows pode correr um erro ao executar o bash
+
+<p align="center">
+<img align="center" width="700" height="300" src="https://drive.google.com/uc?id=1ENyXhYJg6DV2KeupJ6RB7hEE10HZta64">
+</p>
+
+Nessa caso, substitua o conteudo da pasta ```db/mongo-volume``` pelo conteudo do link a seguir
+
+[Download Mongo-Volume](https://drive.google.com/file/d/1W9cT6MDijIavjUO8PYWNRdXymIlCIbCw/view?usp=sharing "Google Drive")
+
+
+
+#### Tela do Swagger em Branco 
+
+Se o navegador ficar em branco ao abrir um swagger tente uma aba anonima
+
+
+## Considerações Finais
+
+ projeto lança mão de se preocupar com **Overengineering** a fim de demonstrar e praticar padrões e conceitos de programação, O uso ou não uso de terminado conceito nem sempre, nesse caso, esta atrelado a uma real necessidade.
+
+
+Foi uma jornada divertida misturar essas tecnologias e faze-las "colar" em um projeto. Ele prova que mesmo as especificações mais simples podem trazer a tona desafios 
+
+Bom, até a proxima 
+
+<p align="center">
+<img align="center" width="300" height="230" src="https://media.tenor.com/images/8818a6b1669d4af3b2f20fb2c55a87c5/tenor.gif">
+</p>
