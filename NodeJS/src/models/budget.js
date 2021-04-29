@@ -3,7 +3,7 @@ const BudgetModel = class Budget{
         this.totalProperties = totalProperties;
         this.squareMeterAveragePrice = squareMeterAveragePrice;
         this.cityName = cityName;
-        this.totalSquareMetters = totalSquareMetters;
+        this.totalSquareMeters = totalSquareMetters;
         this.budgetSimulation = this.totalSquareMetters * this.squareMeterAveragePrice;
     }
 }

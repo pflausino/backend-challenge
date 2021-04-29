@@ -22,7 +22,8 @@ module.exports = {
         var statistics = await SquareMetersService.getStatistics(cityId).catch(
             err => {
                 console.log(err);
-                throw new Error(err);
+                res.status(400).send("Bad Request - Invalid cityID");
+                return;
             }
         );
 
