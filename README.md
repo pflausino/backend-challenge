@@ -20,7 +20,7 @@ Fiz dessa maneira afim de demonstrar a aptidão em cada uma das stacks sendo a d
 
 Em termos de infraestrutura de deploy está sendo demonstrado 2 fluxos sendo: A API1 em Container e o da API2 em herokuVM
 <p align="center">
-<img align="center" width="700" height="500" src="https://drive.google.com/uc?id=1_BTT1JOaivqhX30LYbayeXbzZPA4GPSJ">>
+<img align="center" width="700" height="500" src="https://i.ibb.co/VwpjsMc/Screen-Shot-2021-04-29-at-02-compressed.jpg">
 </p>
 
 Perceba que independente da estrutura em deploy, quando estamos em dev com máquinas locais, usamos o docker composer para facilitar e execução em diferentes ambientes.
@@ -108,7 +108,7 @@ Ao subir o container mongo a primeira vez, o docker compose irá importar dados 
 Dependendo como for a configuração do docker no Windows pode correr um erro ao executar o bash
 
 <p align="center">
-<img align="center" width="700" height="300" src="https://drive.google.com/uc?id=1ENyXhYJg6DV2KeupJ6RB7hEE10HZta64">
+<img align="center" width="700" height="300" src="https://i.ibb.co/1R02F7q/Screen-Shot-2021-04-29-at-12-compressed.jpg">
 </p>
 
 Nessa caso, substitua o conteudo da pasta ```db/mongo-volume``` pelo conteudo do link a seguir
