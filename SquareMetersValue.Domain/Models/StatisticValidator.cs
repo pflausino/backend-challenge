@@ -6,6 +6,7 @@ namespace SquareMetersValue.Domain.Models
     {
         public StatisticValidator()
         {
+            
         }
     }
 }

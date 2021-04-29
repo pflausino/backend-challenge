@@ -36,7 +36,6 @@ namespace SquareMetersValue.Domain.Handlers
                     Error.NotFound(nameof(request.CityId), request.CityId));
 
             var properties = await _propertiesRepository.GetByCityId(request.CityId);
-            //var properties = await _propertiesRepository.GetAll();
 
             if (!properties.Any())
                 return Result.Failure<RealStateStatisticDataViewModel, Error>(
@@ -47,7 +46,7 @@ namespace SquareMetersValue.Domain.Handlers
             var result = new RealStateStatisticDataViewModel(
                 statisticData.TotalAccounted,
                 statisticData.GetAverageDisplay(),
-                statisticData.AveregePerSquareMeter,
+                statisticData.AveragePricePerSquareMeter.Value,
                 city.DisplayName);
 
 

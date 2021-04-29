@@ -1,5 +1,6 @@
 ﻿using System;
 using SquareMetersValue.Domain.Core;
+using SquareMetersValue.Domain.ValueObjects;
 
 namespace SquareMetersValue.Domain.Models
 {
@@ -11,24 +12,15 @@ namespace SquareMetersValue.Domain.Models
             TotalValue = totalValue;
             CityId = cityId;
             Description = description;
-            SetAveregePerSquareMeter();
+            AveragePerSquareMeter = new AveragePerSquareMeter(TotalValue,Size);
 
         }
+
         public int Size { get; private set; }
         public decimal TotalValue { get; private set; }
         public Guid CityId { get; private set; }
         public string Description { get; private set; }
-        public decimal AveregePerSquareMeter { get; private set; }
+        public AveragePerSquareMeter AveragePerSquareMeter { get; private set; }
 
-        public void SetAveregePerSquareMeter()
-        {
-            if(Size >= 1)
-            {
-                var averege = TotalValue / Size;
-
-                AveregePerSquareMeter = averege;
-
-            }
-        }
     }
 }

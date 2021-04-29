@@ -9,7 +9,6 @@ namespace SquareMetersValue.Domain.Tests.Entities
     {
         public StatisticTest()
         {
-
         }
 
         [Fact]
@@ -33,7 +32,7 @@ namespace SquareMetersValue.Domain.Tests.Entities
             Assert.Equal(properties.Count, realEstateStatisticData.TotalAccounted);
             Assert.Equal(
                 (decimal)1000.00,
-                realEstateStatisticData.AveregePerSquareMeter
+                realEstateStatisticData.AveragePricePerSquareMeter.Value
             );
         }
 
@@ -58,9 +57,8 @@ namespace SquareMetersValue.Domain.Tests.Entities
                 properties
             );
             //Assert
-            Assert.Equal(
-                0,
-                realEstateStatisticData.AveregePerSquareMeter
+            Assert.Null(
+                realEstateStatisticData.AveragePricePerSquareMeter
             );
             Assert.True(realEstateStatisticData.Invalid);
             Assert.Single(realEstateStatisticData.ValidationResult.Errors);
@@ -84,7 +82,7 @@ namespace SquareMetersValue.Domain.Tests.Entities
 
             //Assert
             Assert.Equal(
-                "1000.00",
+                "R$ 1000.01",
                 displayAverage
             );
 

@@ -27,7 +27,7 @@ namespace SquareMetersValue.Api.Controllers
         {
             var response = await _mediator.Send(command);
 
-            return NoContent();
+            return Ok("Created");
         }
 
     }

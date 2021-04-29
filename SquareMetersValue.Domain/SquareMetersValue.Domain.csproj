@@ -8,6 +8,7 @@
     <PackageReference Include="FluentValidation" Version="10.0.4" />
     <PackageReference Include="MediatR" Version="9.0.0" />
     <PackageReference Include="CSharpFunctionalExtensions" Version="2.15.1" />
+    <PackageReference Include="ValueOf" Version="1.0.17" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Queries\" />

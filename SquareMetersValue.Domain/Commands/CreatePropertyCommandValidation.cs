@@ -7,8 +7,8 @@ namespace SquareMetersValue.Domain.Commands
         public CreatePropertyCommandValidation()
         {
             RuleFor(x => x.Size)
-                .GreaterThan(0)
-                .WithMessage("Size must be Greater Than 0 ");
+                .GreaterThan(5)
+                .WithMessage("Size must be Greater Than 5 ");
 
             RuleFor(x => x.CityId)
                 .NotEmpty()
