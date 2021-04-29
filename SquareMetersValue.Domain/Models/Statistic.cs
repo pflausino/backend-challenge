@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using SquareMetersValue.Domain.Core;
+using SquareMetersValue.Domain.ValueObjects;
 
 namespace SquareMetersValue.Domain.Models
 {
@@ -22,27 +23,19 @@ namespace SquareMetersValue.Domain.Models
             }
 
             TotalAccounted = properties.Count;
-            SetAveregePerSquareMeter(properties);
+            AveragePricePerSquareMeter = new AveragePricePerSquareMeter(properties);
             Validate(this, new StatisticValidator());
         }
 
         public int TotalAccounted { get; private set; }
-        public decimal AveregePerSquareMeter { get; private set; }
+        public AveragePricePerSquareMeter AveragePricePerSquareMeter { get; private set; }
 
 
-        private void SetAveregePerSquareMeter(List<Property> properties)
-        {
-            var sumOfSquareMeter = properties.Sum(x => x.AveregePerSquareMeter);
-            var average = sumOfSquareMeter / TotalAccounted;
-
-            AveregePerSquareMeter = average;
-        }
 
         public string GetAverageDisplay()
         {
 
-            var displayNumber = Math.Round(AveregePerSquareMeter, 2, MidpointRounding.AwayFromZero);
-            var displayString = displayNumber.ToString();
+            var displayString = $"R$ {AveragePricePerSquareMeter.Value.ToString()}";
 
             return displayString;
         }

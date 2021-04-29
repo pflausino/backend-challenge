@@ -3,7 +3,8 @@ using System.Linq;
 
 namespace SquareMetersValue.Domain.Core
 {
-    public abstract class ValueObject
+
+public abstract class ValueObject
     {
         protected static bool EqualOperator(ValueObject left, ValueObject right)
         {

@@ -10,7 +10,6 @@ namespace SquareMetersValue.Domain.Models
             SetState(state);
 
         }
-
         public string Name { get; private set; }
         public string State { get; private set; }
         public string DisplayName { get => GetDisplayName();}
@@ -20,7 +19,6 @@ namespace SquareMetersValue.Domain.Models
             State = state.ToUpper();
 
         }
-
         private string  GetDisplayName()
         {
             var displayName = $"{Name}-{State}";

@@ -24,6 +24,7 @@ namespace SquareMetersValue.Infra.Mappings
                 map.MapMember(x => x.TotalValue).SetDefaultValue(1);
                 map.MapMember(x => x.CityId).SetDefaultValue(Guid.Empty);
                 map.MapMember(x => x.Description).SetDefaultValue("");
+                map.UnmapMember(m => m.AveragePerSquareMeter);
             });
 
         }

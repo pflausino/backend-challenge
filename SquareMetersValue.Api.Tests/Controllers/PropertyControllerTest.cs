@@ -24,11 +24,11 @@ namespace SquareMetersValue.Api.Tests.Controllers
             var controller = autoMock.Create<PropertiesController>();
 
             //Act
-            var result = await controller.Post(command) as NoContentResult;
+            var result = await controller.Post(command) as OkObjectResult;
 
             //Assert
             Assert.NotNull(result);
-            Assert.IsType<NoContentResult>(result);
+            Assert.IsType<OkObjectResult>(result);
         }
     }
 }

@@ -56,7 +56,7 @@ namespace SquareMetersValue.Domain.Tests.Entities
             );
 
             //Assert
-            Assert.Equal(5000, property.AveregePerSquareMeter);
+            Assert.Equal(5000, property.AveragePerSquareMeter.Value);
         }
         [Fact]
         public void Constructor_PassingASizeEqZero_ObjectIsInvalid()
@@ -73,7 +73,7 @@ namespace SquareMetersValue.Domain.Tests.Entities
             );
 
             //Assert
-            Assert.Equal(0, property.AveregePerSquareMeter);
+            Assert.Equal(0, property.AveragePerSquareMeter.Value);
             Assert.True( property.Invalid);
         }
 

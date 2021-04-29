@@ -1,6 +1,7 @@
 using System;
 using System.IO;
 using System.Reflection;
+using AutoMapper;
 using FluentValidation.AspNetCore;
 using MediatR;
 using Microsoft.AspNetCore.Builder;
@@ -9,6 +10,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.OpenApi.Models;
 using SquareMetersValue.Api.Filters;
+using SquareMetersValue.Api.Settings;
 using SquareMetersValue.Domain.Commands;
 using SquareMetersValue.Domain.Core;
 using SquareMetersValue.Domain.Infra.Interfaces;
@@ -35,6 +37,15 @@ namespace SquareMetersValue.Api
             MongoDbPersistence.Configure();
 
             services.AddCors();
+            // Auto Mapper Configurations
+            var mappingConfig = new MapperConfiguration(mc =>
+            {
+                mc.AddProfile(new AutoMapperProfile());
+            });
+
+            IMapper mapper = mappingConfig.CreateMapper();
+            services.AddSingleton(mapper);
+
 
             var assembly = AppDomain.CurrentDomain.Load("SquareMetersValue.Domain");
 
@@ -88,8 +99,8 @@ namespace SquareMetersValue.Api
             app.UseCors(x => x
                 .AllowAnyMethod()
                 .AllowAnyHeader()
-                .SetIsOriginAllowed(origin => true) // allow any origin
-                ); // allow credentials
+                .SetIsOriginAllowed(origin => true)
+                );
 
             app.UseHttpsRedirection();
 
